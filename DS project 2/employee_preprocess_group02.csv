@@ -1,0 +1,998 @@
+Employee_No,Employee_Code,Name,Gender,Religion_ID,Marital_Status,Designation_ID,Date_Joined,Date_Resigned,Status,Inactive_Date,Reporting_emp_1,Employment_Category,Employment_Type,Religion,Designation,Year_of_Birth,Basic Salary_0
+347,6,Myrl Bechtelar MD,Male,1,Married,24,1993-12-08,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Driver,1965,28500.0
+348,33,Francis Mraz,Male,1,Married,24,1995-03-14,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Driver,1973,27200.0
+349,53,Mr Emmet Blick Jr,Male,1,Married,23,1988-01-27,2021-06-28,Inactive,2021-06-28,\N,Staff,Permanant,Buddhist,Account Clerk,1974,37551.5
+351,77,Mr Nelson Braun PhD,Female,4,Married,40,1999-10-01,2022-01-31,Inactive,2022-01-31,\N,Staff,Permanant,Catholic,Purchasing Officer,1974,38600.0
+352,88,Maximillian Hand,Male,1,Married,7,2001-01-26,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Store Keeper,1980,25350.0
+353,155,Zena Nicolas,Male,1,Married,22,2003-09-29,0000-00-00,Inactive,2020-08-31,\N,Staff,Permanant,Buddhist,Technical Officer,1962,28179.5
+354,181,Coralie Bernhard,Male,1,Married,22,2003-11-10,0000-00-00,Active,0000-00-00,945,Staff,Permanant,Buddhist,Technical Officer,1969,32000.0
+355,192,Josh Roob,Male,1,Married,126,2004-02-16,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Project Coordinator ,1981,43300.0
+356,283,Ernest Upton,Female,1,Single,23,2005-06-01,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Account Clerk,1974,31500.0
+359,529,Sydney Oberbrunner,Male,1,Married,41,2006-07-01,2022-01-31,Inactive,2022-01-31,\N,Staff,Permanant,Buddhist,Electrician,1967,25250.0
+360,573,Angeline Yundt,Male,1,Married,42,2006-08-29,2021-05-05,Inactive,2021-05-05,\N,Management,Permanant,Buddhist,Transport Officer,1976,10790.5
+361,596,Prof Karlie Bauch III,Male,3,Single,7,2006-11-01,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Hindu,Store Keeper,1986,26450.0
+363,691,Leonel Romaguera,Male,1,Married,24,2007-05-25,2021-05-23,Inactive,2021-05-23,\N,Staff,Permanant,Buddhist,Driver,1975,17298.0
+365,759,Sidney Macejkovic,Male,1,Married,43,2007-11-12,0000-00-00,Inactive,2020-09-10,\N,Staff,Permanant,Buddhist,Operator - JCB,1984,28464.5
+366,900,Prof Jerod Pfeffer,Male,1,Married,44,2008-11-15,0000-00-00,Inactive,2020-05-21,\N,Staff,Permanant,Buddhist,Driver - Boom,1973,31211.5
+371,1084,Ignatius Volkman DDS,Female,1,Single,45,2010-08-02,2021-04-30,Inactive,2021-04-30,\N,Management,Contarct Basis,Buddhist,Construction Manager,1963,6240.0
+372,1086,Doyle Hettinger,Male,1,Married,46,2010-08-05,0000-00-00,Inactive,2020-09-27,\N,Staff,Contarct Basis,Buddhist,Operator - Crane,1981,25750.5
+373,1093,Izaiah Berge,Male,1,Married,35,2010-10-26,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1990,17450.0
+376,1154,Prof Arden Jacobs III,Male,1,Married,7,2011-03-24,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1961,24800.0
+377,1275,Shaylee Schroeder III,Male,5,Single,48,2011-11-03,0000-00-00,Active,0000-00-00,624,Staff,Contarct Basis,Muslim,Draughtsman,1982,23250.0
+378,1290,Raymond Bogan,Male,1,Married,33,2011-11-21,0000-00-00,Inactive,2020-07-28,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1965,59558.0
+379,1329,Kayden Rice,Male,1,Single,27,2012-01-25,0000-00-00,Inactive,2020-06-30,\N,Staff,Contarct Basis,Buddhist,Supervisor,1991,18464.833333333336
+380,1336,Macey Simonis,Male,1,Married,24,2012-01-29,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver,1978,18150.0
+381,1373,Jayde Witting,Male,5,Married,22,2012-03-17,0000-00-00,Active,0000-00-00,624,Staff,Contarct Basis,Muslim,Technical Officer,1982,26300.0
+383,1405,Sylvan Gislason,Male,1,Married,24,2012-05-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver,1994,17650.0
+384,1425,Dr Kennedy Ryan MD,Male,1,Married,8,2012-06-05,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1989,29500.0
+385,1472,Tillman Greenfelder,Male,1,Married,49,2012-07-06,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1986,25050.0
+388,1573,Hanna Wyman,Male,1,Married,22,2012-11-18,0000-00-00,Inactive,2020-03-30,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1989,27642.0
+389,1587,Tessie Fadel,Male,1,Married,24,2012-12-14,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver,1994,17200.0
+391,1610,Orval Hessel,Male,1,Married,37,2013-01-24,0000-00-00,Inactive,2019-11-14,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1960,24913.0
+392,1620,Katelin Thompson,Male,5,Married,22,2013-02-05,0000-00-00,Active,0000-00-00,2709,Staff,Contarct Basis,Muslim,Technical Officer,1989,20650.0
+393,1653,Savanna Spinka,Male,5,Married,6,2013-04-01,0000-00-00,Active,0000-00-00,393,Staff,Contarct Basis,Muslim,Project Manager,1965,61000.0
+394,1730,Carley Bogisich,Male,1,Married,46,2013-06-27,2021-12-17,Inactive,2021-12-17,\N,Staff,Contarct Basis,Buddhist,Operator - Crane,1993,15600.0
+396,1769,Jaquelin Block,Male,1,Single,67,2013-08-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Operator - Loader,1993,15000.0
+399,1870,Garland Feeney,Male,3,Married,27,2014-01-28,2021-08-31,Inactive,2021-08-31,\N,Staff,Contarct Basis,Hindu,Supervisor,1989,19250.0
+400,1872,Elody Waelchi,Male,3,Single,27,2014-01-24,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Supervisor,1988,18950.0
+401,1888,Nola Grant,Male,1,Married,7,2014-02-25,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1972,22700.0
+402,1900,Macie Kuvalis,Male,1,Single,24,2014-02-22,0000-00-00,Inactive,2020-08-31,\N,Staff,Contarct Basis,Buddhist,Driver,1995,17690.166666666668
+403,2009,Julie Osinski,Male,1,Married,43,2014-05-03,0000-00-00,Inactive,2020-08-28,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1992,26828.0
+404,2026,Jody Stokes,Male,1,Single,36,2014-06-04,0000-00-00,Active,0000-00-00,673,Staff,Contarct Basis,Buddhist,Engineer Assistant,1987,30000.0
+405,2034,Scottie Ratke,Male,1,Married,27,2014-06-09,0000-00-00,Inactive,2019-12-05,\N,Staff,Contarct Basis,Buddhist,Supervisor,1987,21510.166666666664
+407,2151,Braulio Pagac IV,Male,3,Single,8,2014-09-17,0000-00-00,Inactive,2020-06-22,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1990,33070.0
+408,2186,Jon Kuhn,Male,1,Single,8,2014-10-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990,23600.0
+410,2284,Ally Nikolaus,Male,1,Single,52,2015-02-05,2021-05-30,Inactive,2021-05-30,\N,Staff,Contarct Basis,Buddhist,Moter Mechanic,1995,23014.5
+411,2301,Jesus Dietrich Sr,Male,1,Married,24,2015-04-28,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver,1987,17050.0
+413,2313,Addie Purdy,Male,1,Single,35,2015-05-01,0000-00-00,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1997,17050.0
+414,2333,Noelia Roberts DDS,Male,3,Single,54,2016-06-02,0000-00-00,Inactive,2020-10-06,\N,Staff,Contarct Basis,Hindu,Lab Technician,1985,25142.0
+415,2334,Isabella Brakus,Male,4,Married,36,2015-06-01,2021-07-25,Inactive,2021-07-25,\N,Staff,Contarct Basis,Catholic,Engineer Assistant,1982,28250.0
+416,2337,Bo Schaefer I,Male,3,Married,27,2015-06-01,2021-03-25,Inactive,2021-03-25,\N,Staff,Contarct Basis,Hindu,Supervisor,1986,22114.666666666664
+419,2421,Ms Jany Lemke,Male,1,Married,22,2015-08-24,2021-05-31,Inactive,2021-05-31,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1988,26730.25
+420,2426,Dr Kieran Bradtke IV,Male,1,Married,24,2015-09-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver,1995,16050.0
+421,2481,Marcos Kemmer MD,Male,1,Single,24,2016-01-02,2022-08-31,Inactive,2022-08-31,\N,Staff,Contarct Basis,Buddhist,Driver,1997,14750.0
+422,2488,Burley Willms,Female,1,Married,8,2016-02-05,2021-04-30,Inactive,2021-04-30,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1981,35707.0
+423,2512,Kaley Ankunding MD,Male,1,Married,57,2016-05-12,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver - Truck Mixture,1987,16300.0
+424,2513,Rogers Conroy,Male,1,Single,24,2016-05-26,0000-00-00,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,Driver,1988,15950.0
+425,2647,Alison Price V,Male,1,Married,38,2016-08-15,2022-08-31,Inactive,2022-08-31,\N,Staff,Contarct Basis,Buddhist,Office Assistant,1965,24000.0
+426,50028,Thea Gaylord,Male,1,Married,58,2020-07-03,2021-10-26,Inactive,2021-10-26,\N,Staff,Contarct Basis,Buddhist,Sociologist,1962,71800.0
+427,2680,Laron Turcotte,Female,1,Married,48,2016-09-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1980,46000.0
+431,2750,Miss Ashley Spinka IV,Male,1,Married,62,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,S/Skill,1947,16640.0
+433,2765,Prof Damaris Kemmer DDS,Male,1,Married,63,2016-11-01,2022-09-27,Inactive,2022-09-27,\N,Staff,Contarct Basis,Buddhist,Junior Quantity Surveyor,1993,24000.0
+434,2774,Corene Weber DDS,Male,1,Married,64,2016-11-28,2021-06-30,Inactive,2021-06-30,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1972,36794.0
+435,2807,Madisyn Raynor,Male,1,Single,22,2016-12-15,0000-00-00,Active,0000-00-00,1834,Staff,Contarct Basis,Buddhist,Technical Officer,1988,27000.0
+436,2811,Prof Bridgette Gerlach DVM,Male,3,Married,27,2016-12-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Supervisor,1981,26800.0
+437,2812,Prof Elian Roberts MD,Male,1,Married,8,2016-12-19,2021-12-22,Inactive,2021-12-22,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1991,40000.0
+438,2845,Giovanna Turner,Male,1,Single,59,2017-01-16,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1991,31000.0
+440,2850,Ricky Hintz,Male,1,Single,113,2017-01-10,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Operation Executive,1981,33000.0
+443,2911,Jaunita Senger,Female,1,Single,59,2017-01-30,2021-08-20,Inactive,2021-08-20,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1989,0.0
+444,2913,Buddy Kunze,Male,1,Married,6,2017-02-16,0000-00-00,Inactive,2020-10-31,\N,Staff,Contarct Basis,Buddhist,Project Manager,1966,77450.0
+446,2936,Lavon Stokes,Male,1,Married,31,2019-01-01,2021-05-31,Inactive,2021-05-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1955,5500.0
+448,2938,Prof Bridget Johnson II,Male,1,Married,31,2019-01-01,2020-12-10,Inactive,2020-12-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966,7000.0
+450,188003,Mrs Eliza O'Kon I,Male,1,Married,31,2020-12-03,2021-04-09,Inactive,2021-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,0.0
+451,2954,Ms Evelyn Farrell IV,Male,1,Single,22,2017-03-01,0000-00-00,Inactive,2020-02-29,\N,Management,Contarct Basis,Buddhist,Technical Officer,1985,12697.0
+453,2973,Miss Amaya Bogisich III,Male,1,Married,7,2017-03-23,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1961,25300.0
+455,2975,Madisyn Huel,Male,3,Single,49,2017-03-27,2022-02-19,Inactive,2022-02-19,1333,Staff,Contarct Basis,Hindu,Junior Technical Officer,1993,21500.0
+456,2984,Aurelie Green,Male,1,Married,30,2019-01-01,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1987,14689.390925526966
+457,4994,Saul Marquardt,Male,1,Married,31,2020-06-01,0000-00-00,Inactive,2020-09-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967,16976.46968142968
+460,199020,Monica Wunsch,Male,1,Married,30,2020-03-01,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1955,9583.709761904762
+461,3009,Miss Chelsie Heidenreich,Male,1,Married,1,2019-01-01,0000-00-00,Inactive,2021-06-01,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,15870.0
+466,3037,Geovanny Gaylord,Male,1,Married,31,2019-01-01,2022-05-31,Inactive,2022-05-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,12800.0
+468,3041,Johnny Price,Male,3,Married,31,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1972,10880.0
+471,5270,Miss Naomie Swaniawski II,Male,1,Single,1,2021-04-01,2022-02-28,Inactive,2022-02-28,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1992,13200.0
+475,3178,Mr Roel Monahan V,Male,1,Married,31,2019-01-01,2020-11-28,Inactive,2020-11-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959,14720.0
+476,3193,Amanda Keebler,Male,5,Married,22,2017-04-03,2021-11-27,Inactive,2021-11-27,\N,Staff,Contarct Basis,Muslim,Technical Officer,1985,31000.0
+478,3216,Anne Abbott III,Female,1,Married,70,2017-05-15,0000-00-00,Inactive,2020-08-30,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1992,23902.0
+480,3222,Alfred Turner,Male,3,Married,69,2017-07-06,0000-00-00,Inactive,2020-04-03,\N,Staff,Contarct Basis,Hindu,Site Supervisor,1989,32644.0
+481,3223,Lawrence Hane,Female,1,Single,59,2017-06-05,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1984,31000.0
+482,3229,Kenyatta Rempel,Male,1,Married,22,2017-06-19,2021-05-23,Inactive,2021-05-23,2709,Staff,Contarct Basis,Buddhist,Technical Officer,1986,27707.75
+486,5169,Prof Avery Volkman,Male,1,Married,1,2021-02-01,2022-05-04,Inactive,2022-05-04,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,8250.0
+487,3256,Kathleen Denesik,Male,1,Married,124,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Mason,1992,12100.0
+490,3295,Dr Nat Adams,Male,3,Single,31,2019-01-01,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1995,8499.154194743332
+495,3335,Ludwig Stamm,Male,1,Married,29,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Cook,1957,17920.0
+496,3351,Emie Conroy,Male,1,Married,22,2017-07-01,0000-00-00,Active,0000-00-00,2709,Staff,Contarct Basis,Buddhist,Technical Officer,1988,31000.0
+501,190015,Piper Dooley,Male,1,Married,31,2020-12-07,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,8000.0
+504,3440,Miss Greta Langosh,Male,3,Married,31,2019-01-01,2021-03-02,Inactive,2021-03-02,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1991,13500.0
+505,3451,Gertrude Leannon,Male,1,Married,37,2017-08-28,2021-06-30,Inactive,2021-06-30,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1959,36397.5
+508,3533,Dr Bernice Feil,Male,1,Single,24,2017-09-09,0000-00-00,Inactive,2020-05-30,\N,Staff,Contarct Basis,Buddhist,Driver,1993,19744.833333333332
+509,3536,Ewell Koch,Female,3,Married,8,2017-09-15,0000-00-00,Inactive,2020-03-13,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1993,38880.0
+510,3537,Cristobal Wilkinson,Male,3,Single,8,2017-09-15,2022-02-10,Inactive,2022-02-10,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1991,41000.0
+512,3545,Mason Ryan,Male,1,Single,24,2017-10-02,0000-00-00,Inactive,2020-06-12,\N,Staff,Contarct Basis,Buddhist,Driver,1994,20490.333333333332
+514,3553,Shea Terry MD,Female,1,Single,65,2017-11-01,2021-01-18,Inactive,2021-01-25,\N,Staff,Contarct Basis,Buddhist,Design Engineer,1994,30626.5
+515,3621,Virginia Stokes,Male,1,Single,8,2017-12-22,0000-00-00,Inactive,2020-10-21,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992,31742.0
+516,3632,Dante Ledner,Male,1,Single,72,2018-01-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,IT Executive,1990,28000.0
+517,3633,Mrs Betty West Sr,Female,1,Single,8,2018-01-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1993,35000.0
+520,3665,Willa Kunde,Male,1,Married,1,2019-01-01,0000-00-00,Inactive,2020-06-30,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,14785.726153846153
+521,3679,Dr Jaden Conn,Male,1,Married,1,2019-01-01,2020-11-30,Inactive,2020-11-30,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,13750.0
+523,3702,Hallie Parker,Female,1,Married,31,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,16000.0
+532,5043,Andreanne Roberts,Male,1,Married,1,2019-01-09,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1994,14490.0
+534,3809,Tania Bode,Male,3,Single,31,2019-01-01,2022-01-12,Inactive,2022-01-12,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1997,12800.0
+536,3826,Prof Paris Homenick,Male,5,Single,69,2018-02-16,0000-00-00,Inactive,2021-02-28,\N,Staff,Contarct Basis,Muslim,Site Supervisor,1997,24860.0
+537,3830,Hope Ward,Male,1,Married,107,2018-02-22,0000-00-00,Active,0000-00-00,1333,Staff,Contarct Basis,Buddhist,Social Environment Officer,1991,41000.0
+538,3877,Mr Bartholome Hintz,Male,5,Single,27,2018-04-18,0000-00-00,Inactive,2020-08-11,\N,Staff,Contarct Basis,Muslim,Supervisor,1994,20237.333333333332
+539,3879,Mr Archibald Abshire,Male,1,Single,43,2018-04-20,0000-00-00,Inactive,2020-05-31,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1993,30925.0
+540,4888,Leilani Nikolaus,Female,1,Single,88,2019-10-02,0000-00-00,Inactive,2020-06-30,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1995,36357.0
+541,4901,Carmen Dickinson,Female,1,Single,111,2019-10-22,0000-00-00,Inactive,2020-08-31,\N,Staff,Contarct Basis,Buddhist,Management Trainee,1994,30984.5
+545,4686,Brenden Hartmann IV,Male,1,Single,89,2019-04-22,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1990,50000.0
+546,4759,Terrence Lehner,Male,1,Married,97,2019-06-06,0000-00-00,Inactive,2020-06-19,\N,Management,Contarct Basis,Buddhist,Foreman,1978,5420.5
+549,199055,Darius Zulauf,Male,1,Single,101,2020-12-05,2021-05-31,Inactive,2021-05-31,\N,Staff,Contarct Basis,Buddhist,Excavator Operator,2001,13000.0
+550,4882,Dr Adrien Beahan,Male,1,Married,24,2019-09-01,2022-12-31,Inactive,2022-12-27,\N,Staff,Contarct Basis,Buddhist,Driver,1973,35000.0
+551,4889,Ilene Goyette,Female,1,Single,175,2019-10-14,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Supervisor,1984,25000.0
+553,4902,Odessa Crist Sr,Male,1,Single,17,2019-10-25,0000-00-00,Inactive,2020-03-10,\N,Staff,Contarct Basis,Buddhist,Account Executive,1996,25115.0
+554,4132,Prof Jacynthe Kulas,Male,1,Single,78,2018-07-19,0000-00-00,Inactive,2020-07-17,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1992,45705.0
+556,4353,Mr Scottie Streich,Male,1,Married,193,2018-11-01,2022-07-20,Inactive,2022-07-20,\N,Management,Contarct Basis,Buddhist,Manager Finance & Operations,1987,23750.0
+557,4352,Myles Monahan MD,Male,1,Married,127,2018-11-01,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Buddhist,Chief Operating Officer,1972,0.0
+558,4354,Miss Clotilde Braun III,Male,1,Married,110,2018-11-01,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Buddhist,Chief Executive Officer,1987,15680.0
+560,4426,Quinn Hansen,Male,1,Single,79,2018-12-18,0000-00-00,Inactive,2020-08-31,\N,Staff,Contarct Basis,Buddhist,Helper - Lorry,1995,40710.0
+561,4429,Audrey Tromp,Female,1,Married,84,2019-01-21,0000-00-00,Inactive,2020-12-04,\N,Staff,Contarct Basis,Buddhist,HR Executive,1992,39293.0
+562,4639,Javon Zulauf,Male,1,Single,88,2019-03-11,2020-12-05,Inactive,2020-12-05,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1998,46041.0
+563,4641,Miss Alta Sipes MD,Male,1,Single,88,2019-03-11,0000-00-00,Inactive,2020-06-10,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1997,46041.0
+565,4713,Dr Lynn Gleason III,Male,1,Single,113,2019-05-15,2021-09-18,Inactive,2021-09-18,\N,Staff,Contarct Basis,Buddhist,Operation Executive,1995,35000.0
+569,4728,Alek Moore,Male,1,Married,45,2019-06-03,2021-09-20,Inactive,2021-09-20,569,Management,Contarct Basis,Buddhist,Construction Manager,1966,6158.0
+570,4769,Dr Donny Ryan III,Male,4,Single,98,2019-06-12,0000-00-00,Inactive,2020-10-28,\N,Staff,Contarct Basis,Catholic,Store Executive,1985,44140.0
+572,4824,Dr Dennis Bosco,Female,1,Married,84,2019-08-05,2021-02-28,Inactive,2021-02-28,\N,Staff,Contarct Basis,Buddhist,HR Executive,1990,39936.0
+573,4835,Manuel Bechtelar,Male,1,Single,24,2019-09-05,2021-05-31,Inactive,2021-05-31,\N,Staff,Contarct Basis,Buddhist,Driver,1992,22807.333333333336
+574,4913,Dr Torey Gibson,Female,1,Married,104,2019-11-01,0000-00-00,Inactive,2020-06-12,\N,Staff,Contarct Basis,Buddhist,Accountant,1983,23426.0
+576,5017,Maiya Bernier,Female,1,Single,143,2020-08-01,0000-00-00,Inactive,2020-12-12,\N,Staff,Contarct Basis,Buddhist,HR Assistant,1999,22401.0
+582,71,Miss Burdette Kunze DDS,Male,1,Married,22,1999-07-12,0000-00-00,Active,0000-00-00,624,Staff,Permanant,Buddhist,Technical Officer,1965,52250.0
+583,159,Willa Bruen Jr,Male,1,Married,7,2003-09-29,0000-00-00,Active,0000-00-00,\N,Staff,Permanant,Buddhist,Store Keeper,1981,27200.0
+584,4836,Prof Johanna Bednar,Male,1,Married,36,2019-08-10,0000-00-00,Active,0000-00-00,2631,Staff,Contarct Basis,Buddhist,Engineer Assistant,1988,45000.0
+585,4837,Mr Erin Marquardt II,Male,1,Married,8,2019-08-05,0000-00-00,Inactive,2020-08-15,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990,35724.0
+586,4841,Mariam Carter DVM,Male,1,Married,22,2019-08-01,0000-00-00,Inactive,2020-06-13,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987,28034.5
+589,4845,Alison Graham,Male,1,Married,36,2019-08-01,0000-00-00,Inactive,2020-11-19,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1961,29379.0
+590,4846,Haleigh McCullough,Male,5,Single,22,2019-08-01,0000-00-00,Inactive,2019-12-31,\N,Staff,Contarct Basis,Muslim,Technical Officer,1993,28034.5
+591,4847,Kelsi Effertz,Male,1,Married,22,2019-08-01,0000-00-00,Inactive,2019-12-14,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1995,28034.5
+592,4848,Prof Cleta Hackett Jr,Male,1,Married,22,2019-08-15,0000-00-00,Inactive,2020-01-31,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991,27945.0
+594,4853,Sophie Turner,Male,1,Single,22,2019-08-02,0000-00-00,Inactive,2019-12-07,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1992,27789.5
+595,4854,Joaquin Wisozk,Male,1,Married,27,2019-08-01,0000-00-00,Inactive,2019-11-30,\N,Staff,Contarct Basis,Buddhist,Supervisor,1993,26140.0
+596,4855,Deontae Zemlak,Male,1,Single,22,2019-08-22,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Technical Officer,1991,26000.0
+597,4932,Jeanie McLaughlin,Female,1,Single,157,2019-12-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Business Analyst,1988,30000.0
+599,4941,Donnell Walsh,Male,1,Married,22,2020-01-13,0000-00-00,Inactive,2020-06-24,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1961,24708.5
+601,4943,Luna Harris DDS,Female,1,Single,48,2020-01-27,2021-11-26,Inactive,2021-11-30,1538,Staff,Contarct Basis,Buddhist,Draughtsman,1996,25000.0
+603,4938,Prof Delores Barrows,Male,3,Single,22,2020-01-06,0000-00-00,Inactive,2020-01-31,\N,Staff,Contarct Basis,Hindu,Technical Officer,1993,27391.833333333336
+604,4939,Prof Torey DuBuque,Male,1,Married,33,2020-01-13,2021-07-30,Inactive,2021-07-30,1333,Staff,Contarct Basis,Buddhist,Site Engineer,1981,70000.0
+605,4927,Stella Aufderhar,Male,1,Married,6,2019-12-02,0000-00-00,Inactive,2020-09-18,605,Staff,Contarct Basis,Buddhist,Project Manager,1984,78030.0
+606,4929,Prof Kameron Murphy Sr,Male,1,Married,7,2019-12-04,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1996,25000.0
+607,4930,Alessandra Hermann,Female,1,Single,89,2019-12-04,2021-05-03,Inactive,2021-05-03,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1993,32366.0
+608,4931,Stone Hyatt I,Male,3,Single,22,2019-12-10,2021-03-14,Inactive,2021-02-14,\N,Staff,Contarct Basis,Hindu,Technical Officer,1994,29572.75
+609,4933,Ms Wilma Lowe,Female,1,Married,84,2019-12-26,0000-00-00,Inactive,2020-07-31,\N,Staff,Contarct Basis,Buddhist,HR Executive,1986,38884.0
+610,4934,Dr Sigmund Bartell,Male,3,Married,9,2019-12-30,2022-09-12,Inactive,2022-09-12,\N,Staff,Contarct Basis,Hindu,Assistance QS,1995,20000.0
+611,4935,Corene Hyatt Sr,Male,1,Married,27,2019-12-30,2022-04-30,Inactive,2022-04-30,\N,Staff,Contarct Basis,Buddhist,Supervisor,1971,20000.0
+614,4817,Laurence Hamill,Male,1,Married,7,2019-07-01,2021-07-31,Inactive,2021-07-31,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1946,18000.0
+615,4580,Mr Wilfredo Schmidt DVM,Male,1,Married,33,2019-02-26,2021-10-31,Inactive,2021-10-31,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1987,60000.0
+616,4827,Charlotte Bauch,Male,3,Single,8,2019-07-24,2022-02-28,Inactive,2022-02-28,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1993,30000.0
+617,4684,Marcelo Lubowitz II,Male,5,Single,33,2019-04-23,0000-00-00,Inactive,2020-09-29,\N,Staff,Contarct Basis,Muslim,Site Engineer,1994,52385.5
+618,4829,Fermin Medhurst,Male,1,Married,64,2019-07-24,2022-02-26,Inactive,2022-02-26,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1984,30000.0
+619,4831,Jamie Ortiz,Male,1,Single,27,2019-07-23,2021-07-30,Inactive,2021-07-30,1333,Staff,Contarct Basis,Buddhist,Supervisor,1991,4500.0
+620,4832,Jacky Luettgen,Male,1,Single,27,2019-07-23,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Supervisor,1993,20000.0
+621,4810,Prof Vinnie Waelchi,Male,1,Single,8,2019-07-01,2021-11-30,Inactive,2021-11-30,1538,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987,40000.0
+622,4862,Demetris Heaney,Male,1,Single,36,2019-09-15,0000-00-00,Inactive,2020-11-23,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1990,30335.0
+624,4863,Justina Tillman,Male,1,Single,108,2019-09-15,0000-00-00,Active,0000-00-00,624,Staff,Contarct Basis,Buddhist,QAQC Engineer,1992,50000.0
+625,3950,Mr Giovani Schimmel,Male,1,Married,6,2018-06-02,2021-02-12,Inactive,2021-02-12,625,Staff,Contarct Basis,Buddhist,Project Manager,1965,75840.0
+626,4864,Ricardo Fadel,Female,1,Single,48,2019-08-26,2021-10-25,Inactive,2021-10-25,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993,25000.0
+627,4865,Anita Sporer IV,Male,1,Single,22,2019-09-02,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Technical Officer,1990,26000.0
+628,4867,Clifton Kerluke,Male,1,Married,6,2019-09-12,2022-02-28,Inactive,2022-02-28,\N,Staff,Contarct Basis,Buddhist,Project Manager,1981,85000.0
+629,4868,Prof Newell Ondricka V,Male,1,Single,48,2019-09-16,2022-04-30,Inactive,2022-04-30,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993,25000.0
+630,4869,John Halvorson,Male,1,Single,27,2019-08-22,2021-04-30,Inactive,2021-04-30,\N,Staff,Contarct Basis,Buddhist,Supervisor,1989,15010.083333333336
+631,4427,Khalid Lockman I,Male,1,Single,33,2018-12-26,0000-00-00,Inactive,2020-10-31,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1992,61040.5
+633,4815,Opal Yundt,Male,1,Married,33,2019-07-08,0000-00-00,Inactive,2020-08-30,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1990,49366.5
+634,4871,Garrison Steuber,Male,1,Married,64,2019-09-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1971,25000.0
+635,4873,Laurianne Adams,Male,3,Single,27,2019-09-16,0000-00-00,Inactive,2020-11-30,\N,Staff,Contarct Basis,Hindu,Supervisor,1996,19928.5
+636,4876,Mr Cooper Hills,Male,3,Single,36,2019-09-16,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994,25000.0
+638,4883,Prof Alfreda Mills Jr,Male,1,Married,22,2019-09-26,0000-00-00,Inactive,2020-09-17,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1989,27167.0
+639,4884,Jeramie Simonis,Male,3,Single,22,2019-10-14,2022-10-10,Inactive,2022-10-10,\N,Staff,Contarct Basis,Hindu,Technical Officer,1989,30000.0
+640,4885,Oral Marks,Male,1,Married,8,2019-09-26,0000-00-00,Inactive,2020-06-30,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1966,42600.5
+641,4887,Jaime Paucek,Male,1,Married,22,2019-10-01,0000-00-00,Inactive,2020-07-31,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987,27990.25
+642,4893,Ashlynn Balistreri,Male,3,Married,7,2019-10-10,2021-04-30,Inactive,2021-04-30,\N,Staff,Contarct Basis,Hindu,Store Keeper,1952,24932.5
+643,4894,Ima Jast,Male,3,Married,22,2019-06-29,0000-00-00,Inactive,2020-10-15,\N,Staff,Contarct Basis,Hindu,Technical Officer,1985,30570.5
+644,4897,Prof Nannie Cole,Male,1,Single,8,2019-10-21,2022-05-14,Inactive,2022-05-14,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1996,20000.0
+645,4903,Dedric Steuber,Male,3,Single,33,2019-10-28,2022-01-23,Inactive,2022-01-23,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987,100000.0
+646,4909,Hollie Rath,Male,3,Married,36,2019-11-06,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1987,30000.0
+649,4914,Nolan Cronin Jr,Male,4,Married,6,2019-11-18,0000-00-00,Inactive,2020-11-17,649,Staff,Contarct Basis,Catholic,Project Manager,1971,83860.0
+650,4916,Tate Hackett,Male,1,Married,64,2019-11-19,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1968,30000.0
+651,4918,Wayne Hartmann,Male,3,Married,6,2019-11-20,0000-00-00,Inactive,2020-11-20,651,Staff,Contarct Basis,Hindu,Project Manager,1969,83660.0
+652,4919,Oma McGlynn,Male,3,Married,33,2019-11-20,0000-00-00,Inactive,2020-10-10,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987,64340.0
+653,4920,Aleen Kub IV,Male,1,Married,7,2019-11-25,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1976,24500.0
+654,4922,Rogelio Wyman,Male,1,Married,64,2019-11-20,0000-00-00,Inactive,2020-07-31,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1969,34035.0
+655,4923,Bernardo Roberts,Male,1,Single,54,2019-11-22,0000-00-00,Inactive,2020-03-14,\N,Staff,Contarct Basis,Buddhist,Lab Technician,1981,36685.0
+656,4924,Jayde Gaylord DDS,Male,1,Married,35,2019-11-25,2021-09-07,Inactive,2021-09-07,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1992,18000.0
+658,4928,Clarabelle Smitham,Male,1,Married,8,2019-12-02,0000-00-00,Inactive,2020-09-30,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988,38398.0
+659,326,Missouri Satterfield,Male,3,Married,8,2005-11-28,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1981,36600.0
+660,4420,Mikel Rutherford,Male,1,Married,102,2018-12-01,0000-00-00,Inactive,2020-08-22,\N,Staff,Contarct Basis,Buddhist,Tractor Driver,1978,20228.0
+662,4692,Bettie Rowe,Male,1,Single,39,2019-01-04,2021-08-31,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,Site Engineer-Trainee,1993,23500.0
+663,4720,Sarina Christiansen,Male,1,Single,7,2019-05-02,0000-00-00,Inactive,2020-07-21,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1993,19839.0
+664,4820,Dr Jazmyne Farrell MD,Male,1,Married,8,2019-07-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988,35000.0
+665,3957,Toy Toy,Male,1,Single,7,2018-06-18,0000-00-00,Inactive,2020-08-30,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1994,21020.75
+666,4345,Annamarie Cartwright,Male,1,Married,80,2018-10-17,0000-00-00,Inactive,2020-02-29,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1985,44110.0
+667,4768,Stanley Zulauf,Male,1,Married,6,2019-06-03,2021-10-21,Inactive,2021-10-21,\N,Staff,Contarct Basis,Buddhist,Project Manager,1983,80000.0
+668,2971,Hobart Stracke,Male,1,Single,36,2017-03-20,2021-08-08,Inactive,2021-08-08,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1986,32000.0
+670,4858,Mrs Shanna Pagac,Male,1,Married,22,2019-09-12,0000-00-00,Inactive,2020-09-28,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987,23524.25
+671,4688,Karen Sipes,Male,3,Single,6,2019-05-15,0000-00-00,Inactive,2021-08-12,\N,Staff,Contarct Basis,Hindu,Project Manager,1991,80000.0
+672,4907,Dr Megane Stoltenberg,Male,5,Married,24,2019-11-01,0000-00-00,Inactive,2020-07-06,\N,Staff,Contarct Basis,Muslim,Driver,1976,23510.66666666667
+673,4915,Thurman Greenfelder,Male,5,Married,73,2019-11-18,0000-00-00,Active,0000-00-00,673,Staff,Contarct Basis,Muslim,Resident Engineer,1978,100000.0
+674,2776,Lionel Hettinger,Male,1,Married,48,2016-11-29,0000-00-00,Inactive,2020-09-30,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1987,33096.0
+675,3620,Elian Oberbrunner,Male,1,Married,37,2017-12-16,0000-00-00,Inactive,2020-09-15,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1980,37485.0
+676,4708,Loraine Schmeler,Male,1,Single,31,2019-04-22,0000-00-00,Inactive,2020-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,14153.764285714286
+677,3930,Manuel Rau,Male,1,Married,55,2019-01-01,2021-06-30,Inactive,2021-06-30,\N,Labour,Contarct Basis,Buddhist,Fitter,1976,11275.0
+678,3933,Prof Barney Carroll Sr,Male,1,Single,31,2019-01-01,2020-12-28,Inactive,2020-12-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,1000.0
+680,4510,Prof Rowena Skiles,Male,1,Married,31,2019-01-01,2020-12-31,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,2500.0
+682,169036,Oleta Schroeder,Male,1,Married,31,2020-12-06,2021-05-31,Inactive,2021-05-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1955,3500.0
+683,4516,America Haley,Male,1,Married,55,2019-01-01,2020-12-31,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Fitter,1991,12650.0
+684,55,Nathen Langosh MD,Male,1,Married,22,1998-06-25,2021-01-16,Inactive,2021-01-16,\N,Staff,Permanant,Buddhist,Technical Officer,1978,41339.5
+685,4521,Mr Efren Langworth Jr,Male,1,Married,31,2019-01-01,2020-11-28,Inactive,2020-11-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,2000.0
+686,4537,Lacey Paucek,Male,1,Married,31,2019-02-01,0000-00-00,Inactive,2020-09-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1954,1000.0
+689,4776,Mrs Bessie Schultz,Male,1,Married,99,2019-06-24,0000-00-00,Inactive,2020-12-31,\N,Staff,Contarct Basis,Buddhist,Resident Site Engineer,1959,41820.0
+690,4777,Miss Wanda Bayer,Male,1,Married,7,2019-06-24,2022-02-10,Inactive,2022-02-10,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1974,25000.0
+691,4813,Irving Paucek,Male,1,Single,22,2019-03-07,0000-00-00,Inactive,2020-12-30,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991,28176.0
+692,4857,Dr Marion Borer,Male,1,Married,6,2019-01-08,0000-00-00,Inactive,2020-12-31,\N,Staff,Contarct Basis,Buddhist,Project Manager,1987,77985.0
+693,50016,Prof Sienna Quigley,Male,1,Married,99,2019-03-10,0000-00-00,Inactive,2020-04-02,\N,Staff,Contarct Basis,Buddhist,Resident Site Engineer,1955,36526.0
+695,4615,Chanel Spencer,Male,1,Married,31,2019-02-01,2020-11-25,Inactive,2020-11-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965,2500.0
+697,4742,Cletus Bayer Sr,Male,1,Married,31,2019-05-01,2021-08-31,Inactive,2021-08-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,9500.0
+698,4977,Dr Dashawn Bailey,Male,1,Married,122,2020-06-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Security,1958,9920.0
+699,2815,Weston Prohaska III,Male,1,Married,22,2016-12-22,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Technical Officer,1986,32000.0
+700,70087,Alejandra Kreiger,Male,1,Single,122,2019-09-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Security,1991,0.0
+701,5150,Prof Marlin Adams,Male,1,Single,31,2021-01-01,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992,13500.0
+702,75127,Fausto Konopelski,Male,1,Married,122,2019-10-09,2020-11-22,Inactive,2020-11-22,\N,Labour,Contarct Basis,Buddhist,Security,1961,0.0
+703,75128,Cali Jacobson,Male,1,Married,122,2019-10-10,2021-03-30,Inactive,2021-03-30,\N,Labour,Contarct Basis,Buddhist,Security,1981,0.0
+709,3952,Leif Konopelski,Male,1,Single,48,2018-06-01,2022-02-24,Inactive,2022-02-24,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1994,23000.0
+710,5020,Prof Norma Osinski MD,Male,1,Single,31,2020-01-08,2020-11-24,Inactive,2020-11-24,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,9280.0
+711,4341,Brandt Satterfield,Male,1,Married,24,2018-10-10,0000-00-00,Inactive,2020-06-10,\N,Staff,Contarct Basis,Buddhist,Driver,1972,20552.666666666664
+712,4398,Hope White,Male,5,Single,65,2018-11-12,2022-06-30,Inactive,2022-06-30,\N,Staff,Contarct Basis,Muslim,Design Engineer,1994,50000.0
+713,4574,Wilburn Gleason,Male,1,Single,86,2019-02-25,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,QA/QC Engineer,1993,60000.0
+715,4723,Dr Ward Pagac,Male,1,Single,33,2019-06-10,2021-10-18,Inactive,2021-10-18,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1992,40000.0
+716,50000,Prof Vickie Oberbrunner I,Male,3,Married,6,2020-04-01,2020-12-12,Inactive,2020-12-12,716,Staff,Contarct Basis,Hindu,Project Manager,1962,74035.0
+717,50004,Mrs Veronica Ziemann,Female,1,Single,125,2020-07-10,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993,23000.0
+719,5056,Emilio Lebsack,Male,1,Married,31,2020-02-02,2021-03-30,Inactive,2021-01-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,19840.0
+718,50005,Dr Jessy Schmidt,Female,1,Single,125,2020-07-03,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Data Colector,1996,23000.0
+720,50009,Danial Hyatt,Female,1,Single,125,2018-05-14,0000-00-00,Inactive,2020-09-04,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993,34156.0
+721,5057,Alexandro Marvin DDS,Male,1,Married,31,2020-02-03,2020-12-19,Inactive,2020-12-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967,14080.0
+724,4937,Clementine Lehner,Female,1,Married,22,2020-01-01,2021-07-31,Inactive,2021-07-31,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1970,25000.0
+726,4947,Ramiro Leffler,Male,1,Married,24,2020-02-07,0000-00-00,Inactive,2020-08-30,\N,Staff,Contarct Basis,Buddhist,Driver,1978,21053.5
+728,4944,Dr Candelario Douglas Jr,Male,1,Married,22,2020-02-06,2021-05-10,Inactive,2021-05-10,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991,26811.5
+729,169011,Miss Allison Tillman,Male,1,Married,124,2020-03-02,0000-00-00,Inactive,2020-06-24,\N,Labour,Contarct Basis,Buddhist,Mason,1964,10548.623333333333
+730,3878,Katarina Wintheiser,Male,5,Single,27,2018-04-18,0000-00-00,Inactive,2020-12-31,\N,Staff,Contarct Basis,Muslim,Supervisor,1993,20237.333333333332
+731,4400,Letha Gleason,Male,1,Single,51,2018-11-12,2021-03-22,Inactive,2021-03-22,\N,Staff,Contarct Basis,Buddhist,Helper - JCB,2000,30859.5
+733,4431,Katrina Effertz,Male,1,Married,80,2019-01-01,0000-00-00,Inactive,2020-07-18,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1985,28214.0
+734,4771,Dorcas Wuckert,Male,3,Married,33,2019-06-12,0000-00-00,Inactive,2021-02-25,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987,62465.5
+735,4952,Miss Chanelle Corkery I,Male,3,Single,36,2020-02-24,2021-07-17,Inactive,2021-07-17,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1991,30000.0
+736,1073,Benjamin Cronin,Male,1,Married,8,2010-06-07,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987,26600.0
+737,4925,Herminia Feest,Male,1,Married,64,2019-11-26,0000-00-00,Inactive,2020-09-15,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1976,29673.5
+738,194050,Shakira Wiegand,Male,1,Married,1,2021-01-01,2021-09-30,Inactive,2021-09-30,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1978,15400.0
+739,4709,Jadyn Lang,Male,1,Married,31,2019-04-02,2021-09-02,Inactive,2021-09-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,18560.0
+740,4710,Dr Jackie Schumm I,Male,1,Married,31,2019-04-02,2021-03-24,Inactive,2021-03-24,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974,12000.0
+741,70006,Precious Kemmer,Male,1,Single,31,2020-06-01,2022-06-28,Inactive,2022-06-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984,15360.0
+742,194054,Josie Gutkowski,Male,1,Married,31,2020-12-26,2021-02-27,Inactive,2021-02-27,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984,7500.0
+743,194055,Prof Bertha Emard Sr,Male,1,Married,31,2020-12-15,2021-02-25,Inactive,2021-02-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,6500.0
+744,194028,Shanny Kohler MD,Male,1,Married,1,2020-09-07,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1975,6050.0
+747,2924,Craig Gutmann,Male,1,Single,7,2017-02-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1994,18600.0
+749,75099,Miss Frances Barton IV,Male,1,Married,135,2019-10-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Wacher,1951,0.0
+750,75231,Dallin Feeney,Male,1,Married,37,2019-12-08,0000-00-00,Inactive,2020-08-31,\N,Labour,Contarct Basis,Buddhist,Driver-Tractor,1958,7856.65
+751,194001,Kristina Bahringer,Male,1,Married,43,2020-01-04,0000-00-00,Inactive,2020-04-24,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1978,8814.334254385964
+752,194003,Mr German Spinka DDS,Male,1,Single,31,2020-02-05,0000-00-00,Inactive,2020-03-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,9197.85
+753,661,Dr Marco Casper,Male,1,Married,102,2007-05-14,0000-00-00,Inactive,2020-02-28,\N,Staff,Contarct Basis,Buddhist,Tractor Driver,1963,40496.5
+754,4437,Herman Cronin,Male,1,Single,31,2019-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,7040.0
+755,4622,Lorine Grimes,Male,1,Married,31,2019-02-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,10880.0
+756,182001,Adah Tromp,Male,3,Married,123,2020-01-01,0000-00-00,Inactive,2020-03-21,\N,Labour,Contarct Basis,Hindu,Carpenter,1987,11615.158333333333
+757,5013,Lisa Jaskolski,Male,1,Married,123,2020-07-01,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Carpenter,1987,39600.0
+758,182004,Leon Trantow,Female,1,Married,29,2020-02-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Cook,1987,0.0
+760,179022,Myrtle Hammes,Male,1,Married,30,2020-12-07,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1967,16640.0
+761,4974,Vanessa Tremblay IV,Male,1,Single,38,2020-06-01,2022-05-17,Inactive,2022-05-17,\N,Labour,Contarct Basis,Buddhist,Office Assistant,1993,13440.0
+762,70028,Hulda Leannon III,Male,1,Married,134,2019-07-01,2020-12-19,Inactive,2020-12-19,\N,Labour,Contarct Basis,Buddhist,Caretaker,1952,0.0
+764,75232,Nelson Considine,Male,1,Single,31,2019-12-28,0000-00-00,Inactive,2020-03-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,10455.466666666667
+765,75233,Prof Garret Blanda I,Male,1,Single,31,2019-12-28,0000-00-00,Inactive,2020-03-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,10455.466666666667
+767,5022,Sierra Marks,Male,1,Married,31,2020-01-22,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,12868.743150183149
+770,191001,Elenor Nitzsche,Male,1,Married,31,2020-02-12,0000-00-00,Inactive,2020-07-21,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964,13846.526666666665
+772,3977,Theron Nader,Male,3,Single,31,2020-01-01,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1993,17280.0
+776,75008,Ms Trisha Barrows DVM,Male,1,Single,55,2019-10-28,2020-12-12,Inactive,2020-12-12,\N,Labour,Contarct Basis,Buddhist,Fitter,1997,13750.0
+777,196039,Evert Christiansen,Male,1,Single,31,2020-08-14,0000-00-00,Inactive,2020-09-22,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,8189.95
+778,4989,Rosina Feil DVM,Male,1,Married,31,2020-06-01,2022-06-08,Inactive,2022-06-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961,15680.0
+780,75230,Jean Stanton,Male,1,Single,31,2019-12-20,0000-00-00,Inactive,2020-09-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,6037.7
+781,3980,Janessa Powlowski,Male,4,Married,31,2019-01-01,2022-03-20,Inactive,2022-03-20,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1990,12800.0
+782,5288,Dr Amara Leffler,Male,4,Single,31,2020-03-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,2000,13251.226666666666
+783,4187,Kassandra Gerlach,Male,3,Single,31,2019-01-01,2022-01-09,Inactive,2022-01-09,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2000,8960.0
+784,4189,Dale Kuhn,Male,3,Married,31,2019-01-01,2021-05-31,Inactive,2021-05-31,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1954,14720.0
+785,4277,Dr Garth Gerlach,Male,3,Married,31,2019-01-01,0000-00-00,Inactive,2020-03-07,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1972,8499.154194743332
+788,4291,Mr Garrett Bernier,Male,4,Married,31,2019-01-01,2021-05-31,Inactive,2021-05-31,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1961,5440.0
+789,4372,Alexandrea Cormier V,Male,3,Single,31,2019-01-01,0000-00-00,Inactive,2020-03-06,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1996,8499.154194743332
+791,4593,Porter Renner,Male,4,Single,31,2019-02-01,0000-00-00,Inactive,2021-02-28,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,2000,10880.0
+794,70036,Jennyfer Waelchi III,Male,4,Married,31,2019-07-01,0000-00-00,Inactive,2019-12-31,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1966,8370.275
+796,4805,Gustave Balistreri Sr,Male,3,Single,31,2019-06-01,0000-00-00,Inactive,2020-07-31,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1995,11247.799398379399
+798,4443,Wilfrid Smitham,Male,1,Married,31,2018-12-15,2021-08-20,Inactive,2021-08-20,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,8960.0
+799,4444,Gage Deckow III,Male,1,Married,31,2019-01-01,0000-00-00,Inactive,2020-07-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,8499.154194743332
+801,4506,Amber Mitchell,Male,1,Single,31,2019-09-01,2021-09-21,Inactive,2021-09-21,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983,17920.0
+802,4786,Dr Cristal Collier Jr,Male,1,Married,1,2019-06-01,0000-00-00,Inactive,2020-07-26,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1980,3450.0
+803,75112,Mozell Cremin,Male,1,Married,31,2019-10-27,0000-00-00,Inactive,2020-05-21,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992,12598.886666666665
+805,5171,Dave DuBuque DDS,Male,1,Married,31,2021-02-01,2021-04-22,Inactive,2021-04-22,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,10250.0
+806,5172,Pinkie Harber,Male,1,Single,31,2021-02-01,2021-04-22,Inactive,2021-04-22,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,7750.0
+808,4972,Katelyn Mitchell,Male,3,Single,122,2020-06-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Security,1985,14080.0
+809,4973,Libbie Price PhD,Male,3,Married,31,2019-07-01,2022-10-09,Inactive,2022-10-09,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1978,19840.0
+810,5140,Elza Bode,Male,3,Married,31,2019-07-01,2021-08-20,Inactive,2021-08-20,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1960,2500.0
+811,70021,Miss Libby Dibbert,Male,4,Married,31,2019-07-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1966,2000.0
+812,70022,Sarina Weber,Male,4,Married,1,2019-07-01,0000-00-00,Inactive,2020-06-13,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1992,5337.225714285713
+813,199061,Sherwood Padberg,Male,1,Married,30,2020-12-10,2021-12-24,Inactive,2021-12-24,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1975,35200.0
+814,70041,Dr Noble Bruen,Male,3,Married,122,2019-07-01,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Hindu,Security,1981,0.0
+816,5143,Connie Murazik,Male,3,Single,31,2019-08-01,2021-08-21,Inactive,2021-08-21,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1998,2500.0
+817,199042,Gerda Hoppe,Male,3,Single,30,2019-10-18,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1998,17050.0
+823,5068,Nolan Mann,Male,3,Married,31,2020-02-11,2020-12-25,Inactive,2020-12-25,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1972,10560.0
+825,195010,Prof Jayden Vandervort PhD,Male,3,Married,31,2020-02-13,0000-00-00,Inactive,2020-03-08,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1975,13618.46
+826,195011,Miss Fabiola Morissette,Male,4,Single,31,2020-02-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1996,19200.0
+827,70152,Lowell Lang,Male,3,Married,30,2019-09-06,0000-00-00,Inactive,2020-05-18,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1987,7503.85
+828,4980,Abigayle Deckow,Male,3,Married,31,2020-06-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1981,19200.0
+829,75186,Lexie Wunsch,Male,3,Married,122,2019-11-06,2022-01-31,Inactive,2022-01-31,\N,Labour,Contarct Basis,Hindu,Security,1981,0.0
+830,199011,Kiley Deckow,Male,3,Single,122,2020-02-10,2022-06-30,Inactive,2022-06-30,\N,Labour,Contarct Basis,Hindu,Security,1991,0.0
+832,4795,Bella Rosenbaum,Male,1,Married,55,2019-01-06,2022-02-19,Inactive,2022-02-19,\N,Labour,Contarct Basis,Buddhist,Fitter,1970,7935.0
+837,189003,Lauren Cassin,Male,1,Single,31,2020-01-13,0000-00-00,Inactive,2020-06-03,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,13709.74
+838,189037,Chloe Hammes III,Male,1,Married,31,2020-06-10,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,6250.0
+839,5059,Elwin Luettgen,Male,1,Married,31,2020-02-21,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,7680.0
+841,3293,Evangeline Cummings,Male,4,Married,31,2019-01-01,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1972,14720.0
+845,199001,Della Tremblay,Male,3,Single,31,2020-01-02,0000-00-00,Inactive,2020-05-31,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1993,5423.488421052632
+848,200013,Joannie Shields,Male,1,Married,1,2020-12-03,2022-03-21,Inactive,2022-03-21,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,13800.0
+850,70073,Jewell Bogisich,Male,1,Single,30,2019-08-01,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1993,8363.21738095238
+852,70147,Amos Cremin IV,Male,4,Married,122,2019-09-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Catholic,Security,1973,0.0
+853,70149,Raymundo Ortiz,Male,3,Married,30,2019-09-05,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1982,7200.0
+854,5162,Prof Sandrine Kulas,Male,4,Married,38,2021-02-01,2022-08-30,Inactive,2022-08-30,\N,Labour,Contarct Basis,Catholic,Office Assistant,1987,0.0
+855,75253,Rebecca Kuvalis III,Male,3,Single,31,2019-12-01,0000-00-00,Inactive,2020-05-19,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1993,12574.3
+858,75258,Dr Jadon Rempel,Male,3,Married,122,2019-12-25,2022-10-31,Inactive,2022-10-31,\N,Labour,Contarct Basis,Hindu,Security,1949,0.0
+859,75259,Kaylin Aufderhar IV,Male,3,Single,122,2019-12-29,2022-08-31,Inactive,2022-08-31,\N,Labour,Contarct Basis,Hindu,Security,1995,0.0
+860,5039,Layne Bins MD,Male,1,Single,30,2020-01-11,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1966,12420.0
+861,199003,Charlene Harris,Male,1,Married,1,2020-01-12,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1966,14458.0
+863,199005,Mortimer Walter,Male,1,Married,30,2020-01-26,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1987,13261.312063492061
+864,199006,Maya King,Male,3,Single,122,2020-01-30,2021-04-24,Inactive,2021-04-24,\N,Labour,Contarct Basis,Hindu,Security,1991,0.0
+866,199008,Chanelle Konopelski,Male,4,Single,122,2020-02-01,2022-07-06,Inactive,2022-07-06,\N,Labour,Contarct Basis,Catholic,Security,1991,0.0
+867,199009,Irwin Treutel,Male,3,Married,122,2020-02-01,0000-00-00,Inactive,2020-05-30,\N,Labour,Contarct Basis,Hindu,Security,1981,8132.891666666666
+869,199013,Dr Milford Gerlach Sr,Male,3,Single,122,2020-02-11,2021-11-30,Inactive,2021-11-30,\N,Labour,Contarct Basis,Hindu,Security,1991,0.0
+870,199014,Louvenia Gerlach,Male,3,Married,30,2020-02-13,0000-00-00,Inactive,2020-03-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1987,13485.061666666668
+871,5080,Prof Royal Koelpin,Male,3,Single,38,2020-02-15,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Hindu,Office Assistant,1993,7360.0
+872,4976,Antonetta Littel,Female,1,Married,134,2020-06-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Caretaker,1987,16000.0
+873,70096,Prof Nicolas Cronin,Male,1,Married,31,2019-09-24,0000-00-00,Inactive,2020-06-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,9807.3
+875,5144,Prof Marie Sporer Sr,Male,1,Married,31,2019-09-23,2021-07-26,Inactive,2021-07-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989,9000.0
+877,70110,Margie Tremblay,Male,1,Single,31,2019-09-10,2020-11-26,Inactive,2020-11-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992,10500.0
+878,5148,Dennis Miller,Male,1,Married,31,2019-09-09,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984,10000.0
+879,70129,Dean Strosin,Male,1,Married,29,2019-09-02,2021-03-21,Inactive,2021-03-21,\N,Labour,Contarct Basis,Buddhist,Cook,1979,0.0
+880,75031,Constance McClure,Male,1,Married,135,2019-10-06,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Wacher,1963,0.0
+882,75032,Miss Judy Carroll III,Male,1,Married,135,2019-10-08,2022-04-22,Inactive,2022-04-22,\N,Labour,Contarct Basis,Buddhist,Wacher,1960,0.0
+886,75246,Mr Gaston Wintheiser,Male,1,Married,31,2019-12-13,2020-12-20,Inactive,2020-12-20,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,6500.0
+889,4997,Danika Collier,Male,1,Married,31,2020-06-01,0000-00-00,Inactive,2021-06-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977,16976.46968142968
+890,5226,Mr Schuyler Fritsch Jr,Male,1,Married,31,2021-03-01,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,9500.0
+891,5029,Alyce Littel,Male,1,Married,31,2020-01-23,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980,15360.0
+892,197004,Mr Christ Schinner,Male,1,Married,31,2020-01-28,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,10337.517984237984
+894,5030,Dr Destany Rempel,Male,1,Married,31,2020-01-28,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963,10880.0
+895,5031,Eric Luettgen,Male,1,Married,31,2020-01-28,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,10240.0
+896,5032,Jed Hermann MD,Male,1,Married,31,2020-01-28,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980,12800.0
+897,5033,Sonia Stoltenberg I,Male,1,Married,31,2020-01-28,2021-01-28,Inactive,2021-01-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982,11520.0
+898,5034,Dean Kohler,Male,1,Married,31,2020-01-28,2021-01-29,Inactive,2021-01-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,5760.0
+899,5035,Alysa Schimmel,Male,1,Married,31,2020-01-28,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,10337.517984237984
+900,5036,Gussie Beahan MD,Male,1,Married,31,2020-01-28,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983,10880.0
+901,197013,Mrs Heloise Kovacek,Male,1,Married,31,2020-01-28,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,10337.517984237984
+902,5071,Ms Elta Hoeger III,Male,1,Married,31,2020-02-19,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989,10880.0
+905,5076,Isabelle Turner,Male,1,Married,31,2020-02-21,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975,15360.0
+906,5072,Dave Bernhard,Male,1,Married,31,2020-02-19,2022-03-02,Inactive,2022-03-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985,12800.0
+907,197020,Kacie Rippin PhD,Male,1,Married,134,2020-02-05,2021-03-31,Inactive,2021-03-31,\N,Labour,Contarct Basis,Buddhist,Caretaker,1987,0.0
+908,4975,Prof Oswaldo Collins,Male,1,Married,30,2020-06-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1984,16000.0
+910,4979,Sheila Toy,Male,1,Married,31,2020-06-01,2021-01-07,Inactive,2021-01-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,16640.0
+918,4984,Kameron Hilpert,Male,1,Married,31,2020-06-01,2021-10-30,Inactive,2021-10-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984,19840.0
+921,4985,Mrs Meagan Jenkins,Male,1,Married,1,2020-06-01,2022-04-06,Inactive,2022-04-06,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1982,8960.0
+923,1885,Ms Margarita Vandervort IV,Male,1,Married,7,2014-02-20,2021-08-31,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1970,22650.0
+924,3881,Eliezer Schaden,Male,5,Single,33,2018-05-08,0000-00-00,Inactive,2020-06-22,\N,Staff,Contarct Basis,Muslim,Site Engineer,1993,48894.5
+925,4531,Flo Nienow,Male,5,Married,22,2019-02-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Muslim,Technical Officer,1977,25000.0
+926,198047,Mrs Kiarra Hickle,Male,1,Married,55,2020-08-24,0000-00-00,Inactive,2020-09-30,\N,Labour,Contarct Basis,Buddhist,Fitter,1977,8123.166666666666
+928,183008,Kevin Dooley,Male,1,Married,31,2020-01-02,0000-00-00,Inactive,2020-07-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975,0.0
+929,4039,Prof Esther Bradtke MD,Male,1,Married,31,2019-01-01,0000-00-00,Inactive,2020-09-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,8499.154194743332
+930,4170,Prof Cody Monahan,Male,1,Single,1,2019-01-01,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1996,14785.726153846153
+932,4565,Prof Oscar Shields,Male,1,Married,31,2019-01-01,2021-04-09,Inactive,2021-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,5760.0
+933,4693,Ferne Beier V,Male,1,Married,31,2019-04-03,2021-04-09,Inactive,2021-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977,6080.0
+934,4474,Mr Keshawn DuBuque,Male,1,Married,31,2019-01-01,2021-04-09,Inactive,2021-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960,1280.0
+939,70030,Rasheed Abshire,Male,1,Married,31,2019-07-01,0000-00-00,Inactive,2020-03-06,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,8370.275
+940,4950,Mr Michael Cassin,Male,1,Single,70,2020-02-17,0000-00-00,Inactive,2020-08-17,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1997,23863.0
+941,4951,Hardy Casper,Female,1,Single,2,2020-02-12,2022-07-31,Inactive,2022-07-31,\N,Staff,Contarct Basis,Buddhist,Secretary,1993,23500.0
+942,4953,Lilliana Wisozk,Male,1,Single,48,2020-02-24,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1994,20000.0
+943,4954,Mr Cameron McCullough,Male,1,Single,88,2020-03-02,2021-04-27,Inactive,2021-04-27,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1997,46196.0
+944,4955,Louie Hackett,Male,1,Single,48,2020-03-02,0000-00-00,Inactive,2020-08-31,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993,28448.0
+945,4956,Ernest Effertz,Male,1,Married,6,2020-02-24,0000-00-00,Active,0000-00-00,945,Staff,Contarct Basis,Buddhist,Project Manager,1964,80000.0
+947,4959,Edmond Schulist,Male,1,Married,107,2020-03-06,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Social Environment Officer,1962,40000.0
+948,4960,Genevieve Hahn,Male,1,Single,8,2020-03-16,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988,35000.0
+949,4948,Sunny Heller,Male,1,Married,8,2020-02-12,0000-00-00,Inactive,2020-09-21,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988,31054.0
+950,4961,Isai Jacobson IV,Male,1,Single,7,2020-05-11,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1987,20000.0
+951,3872,Maybell Okuneva,Male,1,Single,27,2018-04-01,2020-12-31,Inactive,2020-12-31,\N,Staff,Contarct Basis,Buddhist,Supervisor,1995,24451.666666666664
+952,50022,Benjamin Willms,Male,1,Married,120,2020-05-18,0000-00-00,Inactive,2020-10-08,\N,Management,Contarct Basis,Buddhist,HR Manager,1956,10413.0
+953,2722,Orland Hansen,Male,1,Married,29,2019-01-01,0000-00-00,Inactive,2020-09-24,\N,Labour,Contarct Basis,Buddhist,Cook,1987,14963.72891805731
+958,75016,Mariana Borer,Male,1,Married,1,2019-10-08,0000-00-00,Inactive,2020-06-17,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1987,6761.4
+959,5157,Ellis Mayer,Male,1,Married,1,2021-02-01,2021-04-29,Inactive,2021-04-29,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1984,10450.0
+961,75023,Cecile Jacobson,Male,1,Married,31,2019-10-08,0000-00-00,Inactive,2020-03-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,10151.9
+962,5158,Krystal Dietrich,Male,1,Married,31,2021-02-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,8500.0
+965,75028,Mr Connor Hauck,Male,1,Married,31,2019-10-25,0000-00-00,Inactive,2020-06-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,15355.06
+968,193116,Sammy Heidenreich,Male,1,Married,31,2020-12-08,2021-04-29,Inactive,2021-04-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,5000.0
+969,5165,Cristopher Keebler,Male,1,Married,31,2021-02-01,2021-03-31,Inactive,2021-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,5000.0
+970,75150,Prof Freeda Strosin II,Male,1,Married,53,2019-11-22,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,1987,4872.9
+971,4809,Eula Klein,Male,1,Married,22,2019-06-03,2021-04-10,Inactive,2021-04-10,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1985,29681.5
+973,189011,Dario Romaguera,Male,5,Single,31,2020-02-14,0000-00-00,Inactive,2020-03-17,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,2003,12610.54
+975,4881,Julius Douglas,Male,1,Single,128,2019-09-23,2021-11-06,Inactive,2021-11-06,\N,Staff,Contarct Basis,Buddhist,Construction Supervisor,1996,20000.0
+976,70052,Dr Hettie Robel,Male,1,Married,31,2019-08-01,0000-00-00,Inactive,2020-04-24,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,5854.9807142857135
+977,70058,Domingo Harber I,Male,1,Married,31,2019-08-01,0000-00-00,Inactive,2020-05-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,5854.9807142857135
+979,75042,Mrs Alvera McClure Sr,Male,1,Married,31,2019-10-14,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,7939.0666666666675
+983,5161,Magnus Gerlach III,Male,1,Married,31,2021-02-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985,14080.0
+984,1079,Jamel Davis,Male,1,Married,32,2010-07-16,0000-00-00,Inactive,2020-06-27,\N,Staff,Contarct Basis,Buddhist,OPE-Compresure Breaker,1959,64941.75
+986,4986,Zoey Rempel,Male,1,Married,31,2020-06-01,2021-02-19,Inactive,2021-02-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992,19200.0
+987,4987,Dr Waylon Cassin DVM,Male,1,Married,1,2020-06-01,2021-07-27,Inactive,2021-07-27,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1996,14490.0
+988,75062,Horace Connelly,Male,1,Married,31,2019-10-15,0000-00-00,Inactive,2020-06-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,7836.1
+989,75067,Katharina Kling,Male,1,Married,31,2019-10-07,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,10095.84
+990,75069,Miss Makayla Weber IV,Male,1,Single,31,2019-10-10,2020-12-30,Inactive,2020-12-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,10196.35
+991,75178,Jarred D'Amore,Male,1,Married,31,2019-11-01,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,12055.1
+992,4990,Erika Kihn,Male,1,Married,31,2020-06-01,2022-03-12,Inactive,2022-03-12,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,12800.0
+994,4991,Mr Jefferey Bernier,Male,1,Married,31,2020-06-01,2021-07-23,Inactive,2021-07-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985,17280.0
+999,5037,Lily Fritsch,Male,1,Married,1,2020-01-04,2022-02-28,Inactive,2022-02-28,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1980,11730.0
+1000,198002,Tamara Grant IV,Male,1,Married,1,2020-01-04,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1971,12187.166666666664
+1002,5038,Ms Amanda Yost,Male,1,Married,1,2020-01-16,2021-03-29,Inactive,2021-03-29,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1988,11040.0
+1003,198005,Mollie Lemke MD,Male,1,Married,31,2020-01-09,0000-00-00,Inactive,2020-03-12,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977,10131.018421052631
+1006,4422,Melvin Schroeder,Male,1,Married,37,2018-12-01,2021-03-15,Inactive,2021-03-15,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1974,29465.5
+1007,198009,Maximus Luettgen,Male,1,Married,31,2020-02-25,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988,15723.181587301588
+1008,5078,Caroline Williamson I,Male,1,Married,31,2020-02-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,17280.0
+1009,198062,Jewel Lakin,Male,1,Married,1,2020-02-18,0000-00-00,Inactive,2020-04-30,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1974,7700.0
+1010,198012,Nikki McLaughlin,Male,1,Single,31,2020-02-19,0000-00-00,Inactive,2020-03-06,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,11566.36
+1013,5079,Prof Brent Mills MD,Male,1,Single,31,2020-03-04,2021-07-31,Inactive,2021-07-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,14720.0
+1015,75152,Rebekah Yost,Male,1,Married,31,2019-11-22,0000-00-00,Inactive,2020-06-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,4227.7
+1016,5206,Prof Dorothea Lubowitz,Male,1,Married,31,2021-02-01,2021-02-13,Inactive,2021-02-13,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,10000.0
+1017,75154,Kailey Schumm,Male,1,Married,31,2019-11-22,0000-00-00,Inactive,2019-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,500.0
+1018,75155,Bessie Lueilwitz,Male,1,Married,31,2019-11-22,0000-00-00,Inactive,2020-06-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,4227.7
+1019,75156,Prof Hertha Bernier I,Male,1,Married,31,2019-11-22,0000-00-00,Inactive,2020-06-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,4227.7
+1020,75159,Mr Johann Hirthe V,Male,1,Married,31,2019-11-11,0000-00-00,Inactive,2019-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1957,3000.0
+1033,75280,Mrs Verona Spencer DDS,Male,1,Single,31,2019-12-07,0000-00-00,Inactive,2020-06-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,9777.67
+1037,75287,Gudrun Schumm Sr,Male,1,Married,31,2019-12-02,0000-00-00,Inactive,2020-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,10875.4
+1045,189014,Bria Wiza,Male,1,Married,31,2020-03-07,0000-00-00,Inactive,2020-03-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,7476.74
+1046,199016,Effie Feil V,Male,3,Single,30,2020-02-28,0000-00-00,Inactive,2020-06-03,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1994,11734.431976911976
+1047,5096,Israel Hettinger,Male,1,Married,31,2020-03-05,2020-12-20,Inactive,2020-12-20,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960,3200.0
+1050,189017,Mr Brando Sauer PhD,Male,1,Married,31,2020-03-12,0000-00-00,Inactive,2020-09-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982,12877.42
+1051,3903,Davin Mueller IV,Male,1,Married,1,2019-01-01,0000-00-00,Inactive,2019-12-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1976,14785.726153846153
+1052,189018,Robert Swift,Male,1,Single,31,2020-03-12,0000-00-00,Inactive,2020-03-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2000,12877.42
+1054,199021,Dr Travon Gutmann V,Male,3,Single,122,2020-03-20,2021-10-26,Inactive,2021-10-26,\N,Labour,Contarct Basis,Hindu,Security,1992,0.0
+1055,199022,Nayeli Stehr,Male,3,Single,122,2020-03-20,0000-00-00,Inactive,2020-04-30,\N,Labour,Contarct Basis,Hindu,Security,2000,1434.8666666666666
+1056,181002,Dan Heathcote,Male,1,Married,31,2020-02-23,0000-00-00,Inactive,2020-06-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964,14606.72380952381
+1057,181001,Pierce Kling,Male,1,Married,31,2020-02-16,0000-00-00,Inactive,2020-03-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,11668.56
+1058,181003,Pasquale Block,Male,1,Married,31,2020-02-25,0000-00-00,Inactive,2020-03-16,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973,15723.181587301588
+1060,189040,Alene Rath,Male,1,Married,31,2020-12-07,2021-06-21,Inactive,2021-06-21,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,18560.0
+1061,5095,Dr Ashley Doyle,Male,1,Single,31,2020-03-16,2021-01-06,Inactive,2021-01-06,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,13440.0
+1063,75286,Dejah Cormier,Male,1,Married,1,2019-12-02,0000-00-00,Inactive,2020-09-29,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1979,10457.0
+1064,5025,Rosalia Braun,Male,1,Married,31,2020-01-23,2021-02-27,Inactive,2021-02-27,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,16640.0
+1065,4949,Shawn Goldner IV,Male,1,Single,80,2020-02-19,0000-00-00,Inactive,2020-03-21,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1998,40235.0
+1066,50020,Alfreda Stiedemann Jr,Female,1,Single,125,2020-02-13,2020-12-19,Inactive,2020-12-19,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993,27958.0
+1068,4840,Sheldon Boehm,Male,1,Single,27,2019-08-01,0000-00-00,Inactive,2020-09-30,\N,Staff,Contarct Basis,Buddhist,Supervisor,1993,26140.0
+1069,4256,Brando Zboncak,Male,1,Single,35,2018-08-04,0000-00-00,Inactive,2020-09-26,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1993,28382.5
+1070,193091,Dameon Kshlerin I,Male,1,Married,31,2020-07-28,0000-00-00,Inactive,2020-09-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987,15952.947619047616
+1071,2358,Mr Dewitt Mraz DDS,Male,1,Married,55,2015-07-02,2022-09-30,Inactive,2022-09-30,\N,Staff,Contarct Basis,Buddhist,Fitter,1955,23600.0
+1072,5185,Zena Bauch,Male,1,Married,55,2021-02-01,2022-06-09,Inactive,2022-06-09,\N,Labour,Contarct Basis,Buddhist,Fitter,1987,36000.0
+1073,2957,Arden Upton Jr,Male,1,Married,27,2017-03-01,0000-00-00,Active,0000-00-00,1333,Staff,Contarct Basis,Buddhist,Supervisor,1968,22800.0
+1074,75290,Prof Devan Bogisich V,Male,1,Married,31,2019-12-02,0000-00-00,Inactive,2020-06-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,10875.4
+1076,194005,Ms Adell Watsica,Male,3,Married,31,2020-02-19,0000-00-00,Inactive,2020-03-17,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1983,11566.36
+1077,4895,Marianne Dickens,Male,1,Married,116,2019-10-16,0000-00-00,Inactive,2020-06-30,\N,Management,Contarct Basis,Buddhist,Assistant General Manager,1976,37800.0
+1078,50001,Bart Weber,Male,1,Married,97,2019-03-01,0000-00-00,Inactive,2020-09-29,\N,Staff,Contarct Basis,Buddhist,Foreman,1991,37688.5
+1080,4856,Mrs Matilda Lehner DVM,Male,1,Married,107,2019-08-19,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Social Environment Officer,1961,40000.0
+1081,4761,Elza Bailey,Male,1,Married,68,2019-05-17,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Assistant Store Keeper,1957,23500.0
+1082,5062,Sally Hegmann,Male,1,Single,55,2020-02-29,0000-00-00,Inactive,2020-10-31,\N,Labour,Contarct Basis,Buddhist,Fitter,1999,14490.0
+1083,4946,Sherman Hahn,Male,3,Single,108,2020-02-07,0000-00-00,Inactive,2020-06-20,\N,Staff,Contarct Basis,Hindu,QAQC Engineer,1993,39598.0
+1084,5063,Mr Antonio Parisian,Male,1,Single,31,2020-02-29,0000-00-00,Inactive,2020-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,12039.932640692636
+1085,190018,Chadd Gorczany Sr,Male,1,Married,31,2020-12-08,2021-05-31,Inactive,2021-05-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978,9600.0
+1086,4957,Prof Peyton Waelchi DVM,Male,1,Married,22,2020-03-03,2021-11-30,Inactive,2021-11-30,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1981,30000.0
+1089,75176,Flavio Monahan,Male,1,Single,31,2019-11-11,2022-08-05,Inactive,2022-08-05,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,0.0
+1090,5026,Edmund McClure,Male,1,Single,129,2020-02-01,0000-00-00,Inactive,2020-10-31,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1995,9412.091666666667
+1092,4962,Jaeden Mohr,Male,1,Married,104,2020-06-01,0000-00-00,Inactive,2020-06-10,\N,Management,Contarct Basis,Buddhist,Accountant,1980,3940.0
+1093,5149,Dr Fabiola Ward Jr,Male,1,Married,31,2019-09-09,2022-02-28,Inactive,2022-02-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,11500.0
+1094,5146,Candida Wisozk,Male,1,Married,31,2019-09-18,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,7500.0
+1097,5075,Karl Rau,Male,1,Married,134,2020-02-02,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Caretaker,1987,13440.0
+1098,3365,Nichole Murray,Male,3,Married,71,2017-07-14,2022-03-04,Inactive,2022-03-04,\N,Staff,Contarct Basis,Hindu,Land Supervisor,1980,51000.0
+1104,5099,Allene Sipes,Male,1,Married,31,2020-03-02,2020-12-26,Inactive,2020-12-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,19840.0
+1106,196053,Isabelle Daniel,Male,1,Single,31,2020-03-02,2022-06-17,Inactive,2022-06-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1953,4500.0
+1109,50023,Martine Lesch,Male,5,Married,132,2020-05-27,2022-02-21,Inactive,2022-02-21,1109,Staff,Contarct Basis,Muslim,Senior Design Engineer,1973,200000.0
+1110,4963,Zakary Emmerich,Male,1,Married,133,2020-06-03,0000-00-00,Inactive,2020-10-31,\N,Staff,Contarct Basis,Buddhist,Senior Purchasing Officer,1985,50366.0
+1120,5113,Antone Kautzer,Male,1,Single,38,2020-04-02,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Office Assistant,1994,16640.0
+1121,5115,Margaretta Braun,Male,1,Married,31,2020-04-22,2021-02-18,Inactive,2021-02-18,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,16640.0
+1126,70045,Mallory Runolfsson,Male,1,Married,122,2019-09-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Security,1981,0.0
+1127,5127,Mrs Ivah Vandervort,Male,1,Married,31,2020-12-01,2022-03-25,Inactive,2022-03-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,14720.0
+1130,191003,Esteban Davis,Male,4,Married,31,2020-05-12,0000-00-00,Inactive,2020-10-31,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1968,10250.0
+1131,4965,Mr Devyn Swift,Male,1,Married,64,2020-06-12,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1976,25000.0
+1132,191004,Garth Gutmann,Male,4,Married,31,2020-05-12,0000-00-00,Inactive,2020-06-09,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1979,10291.190173160174
+1134,191006,Prof Doyle Ankunding,Male,4,Single,1,2020-05-18,0000-00-00,Inactive,2020-10-31,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1979,10450.0
+1135,195012,Mr Anderson Harvey PhD,Male,3,Married,1,2020-05-14,0000-00-00,Inactive,2020-06-23,\N,Labour,Contarct Basis,Hindu,Skilled Labor,1994,11315.195
+1137,5167,Miss Felicity Skiles,Male,1,Married,31,2021-02-01,2021-03-31,Inactive,2021-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978,10500.0
+1138,196049,Muriel Turcotte,Male,1,Married,30,2019-11-23,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1966,8250.0
+1139,75146,Emanuel Larkin,Male,1,Married,31,2019-11-25,2020-12-18,Inactive,2020-12-18,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983,21000.0
+1141,5179,Josefa Goyette,Male,1,Married,1,2021-02-01,2021-03-31,Inactive,2021-03-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1969,15400.0
+1158,4966,Belle Roberts DDS,Male,3,Married,33,2020-06-15,2022-07-14,Inactive,2022-07-14,1158,Staff,Contarct Basis,Hindu,Site Engineer,1982,80000.0
+1164,4967,Dr Gabriel Dicki,Male,1,Single,8,2020-06-20,0000-00-00,Inactive,2020-12-10,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992,27391.166666666664
+1171,4969,Alysson Rath,Male,4,Single,27,2020-06-23,0000-00-00,Inactive,2020-09-17,\N,Staff,Contarct Basis,Catholic,Supervisor,1995,16252.583333333336
+1172,4998,Dr Erwin Kuhn III,Male,1,Married,24,2020-06-24,0000-00-00,Inactive,2020-08-07,\N,Staff,Contarct Basis,Buddhist,Driver,1995,16928.333333333336
+1173,5001,Judd Johnston,Male,1,Single,108,2020-07-01,0000-00-00,Inactive,2020-11-19,\N,Staff,Contarct Basis,Buddhist,QAQC Engineer,1991,36358.0
+1176,50024,Prof Presley Koepp II,Male,3,Married,6,2020-06-16,2020-11-03,Inactive,2020-11-03,\N,Staff,Contarct Basis,Hindu,Project Manager,1953,80910.0
+1178,5005,Aletha Becker,Male,3,Married,8,2020-07-13,2022-01-29,Inactive,2022-01-29,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1989,25000.0
+1179,4970,Ezekiel Greenfelder,Male,1,Married,64,2020-06-24,2021-01-26,Inactive,2021-01-26,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1975,31493.0
+1193,193020,Julius Fay,Male,1,Married,62,2020-06-01,0000-00-00,Inactive,2020-06-30,\N,Labour,Contarct Basis,Buddhist,S/Skill,1957,14853.771206571204
+1208,5000,Anna Morar,Male,1,Married,24,2020-06-08,2021-10-15,Inactive,2021-10-15,\N,Staff,Contarct Basis,Buddhist,Driver,1980,19000.0
+1212,5004,Dr Nico Hessel Sr,Female,1,Married,138,2020-07-10,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Receptionist,1994,20000.0
+1215,5006,Ms Lavonne Auer I,Female,1,Married,17,2020-07-23,0000-00-00,Inactive,2020-11-02,\N,Staff,Contarct Basis,Buddhist,Account Executive,1989,21470.5
+1217,5009,Neha O'Hara,Male,4,Married,104,2020-08-06,0000-00-00,Inactive,2020-10-23,\N,Management,Contarct Basis,Catholic,Accountant,1985,9526.5
+1221,50026,Mrs Alayna Bechtelar,Male,3,Single,140,2020-06-22,2020-11-28,Inactive,2020-11-28,\N,Staff,Contarct Basis,Hindu,Surveyor Trainee,1994,39345.0
+1222,5010,Heloise Gutkowski,Male,1,Single,8,2020-08-10,2022-09-30,Inactive,2022-09-30,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992,30000.0
+1223,5011,Maybell Parker,Male,1,Single,93,2020-08-10,2021-03-15,Inactive,2021-03-15,\N,Staff,Contarct Basis,Buddhist,Transport Assistant,1998,41136.0
+1280,200004,Bethel Graham,Male,3,Married,30,2020-08-08,0000-00-00,Inactive,2020-09-28,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1959,14508.066666666666
+1288,5019,Iliana Parisian,Male,3,Married,36,2020-08-27,2020-10-31,Inactive,2020-10-31,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1979,40403.0
+1297,187009,Jarrod Keebler,Male,4,Married,31,2020-08-19,0000-00-00,Inactive,2020-09-22,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1993,8296.493333333332
+1298,187010,Althea O'Kon,Male,4,Married,1,2020-08-11,0000-00-00,Inactive,2020-09-26,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1977,11187.083333333332
+1299,187011,Samantha Franecki,Male,3,Married,31,2020-08-20,0000-00-00,Inactive,2020-09-21,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1992,8016.866666666668
+1300,5041,Arely Lang,Male,4,Single,84,2020-09-09,0000-00-00,Inactive,2020-12-16,\N,Staff,Contarct Basis,Catholic,HR Executive,1991,42600.0
+1302,5044,Carley Ferry,Male,1,Single,22,2020-09-11,2021-02-21,Inactive,2021-02-21,2709,Staff,Contarct Basis,Buddhist,Technical Officer,1992,23573.75
+1304,5046,Queenie Wolf,Male,1,Married,7,2020-09-15,2021-09-30,Inactive,2021-09-30,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1980,30000.0
+1306,5108,Myles Kris,Female,1,Single,177,2020-12-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Junior HR Executive,1999,0.0
+1310,5048,Wilhelm Hill DDS,Male,1,Single,33,2020-09-21,2021-02-12,Inactive,2021-02-12,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993,58495.0
+1323,5049,Prof Merritt Zieme,Male,1,Married,24,2020-09-08,2020-11-30,Inactive,2020-11-30,\N,Staff,Contarct Basis,Buddhist,Driver,1975,20701.333333333332
+1324,5050,Prof Rachael Kuhlman MD,Male,1,Single,70,2020-10-02,0000-00-00,Inactive,2020-10-03,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1998,25571.0
+1325,5051,Nathanial Terry,Male,1,Married,8,2020-10-05,2021-08-07,Inactive,2021-08-07,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1982,50000.0
+1326,5052,Prof Arden Franecki V,Male,1,Married,144,2020-10-06,0000-00-00,Inactive,2020-12-31,\N,Staff,Contarct Basis,Buddhist,Tractor Driver cum Mechanic,1967,34818.0
+1329,5012,Verlie Hodkiewicz,Male,1,Married,24,2020-07-14,0000-00-00,Inactive,2020-09-26,\N,Staff,Contarct Basis,Buddhist,Driver,1987,17833.333333333332
+1330,5055,Carissa Gerlach,Male,3,Single,146,2020-10-09,2021-08-31,Inactive,2021-08-31,\N,Staff,Contarct Basis,Hindu,Assistant Site Engineer,2005,45000.0
+1332,5082,Dr Elmore Huels MD,Male,1,Married,7,2020-10-19,0000-00-00,Inactive,2020-10-24,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1988,24305.0
+1334,5084,Yazmin Gleason,Male,1,Single,33,2020-10-19,2021-07-21,Inactive,2021-07-21,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994,60000.0
+1335,5085,Mrs Lelah Lesch,Male,1,Single,48,2020-10-19,2020-11-23,Inactive,2020-11-23,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1984,35015.5
+1336,5086,Avis D'Amore,Male,1,Single,27,2020-10-17,0000-00-00,Inactive,2020-10-31,\N,Staff,Contarct Basis,Buddhist,Supervisor,1997,20055.0
+1380,5089,Carli Crist,Female,1,Single,147,2020-10-28,2021-01-29,Inactive,2021-01-29,1538,Staff,Contarct Basis,Buddhist,Trainee Technical Officer,1993,79674.0
+1381,5090,Lester Mann IV,Male,1,Married,176,2020-11-09,2022-05-31,Inactive,2022-05-31,\N,Staff,Contarct Basis,Buddhist,Logistic & Operations Supervisor,1983,30000.0
+1382,5091,Rhea Walker,Male,1,Single,8,2020-11-09,0000-00-00,Inactive,2020-12-10,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990,38331.5
+1383,5092,Mortimer Towne,Male,1,Single,27,2020-11-09,2021-09-22,Inactive,2021-09-22,\N,Staff,Contarct Basis,Buddhist,Supervisor,1998,20000.0
+1384,5093,Vern Shanahan,Male,1,Single,27,2020-11-09,0000-00-00,Inactive,2020-12-01,\N,Staff,Contarct Basis,Buddhist,Supervisor,1997,18647.0
+1385,5094,Luciano Barrows,Male,1,Single,40,2020-11-11,2021-09-27,Inactive,2021-09-27,\N,Staff,Contarct Basis,Buddhist,Purchasing Officer,1996,25000.0
+1386,5103,Mr Lucio Sauer MD,Male,5,Married,22,2020-11-18,2022-01-26,Inactive,2022-01-26,\N,Staff,Contarct Basis,Muslim,Technical Officer,1985,26000.0
+1388,5102,Aletha Schaefer I,Male,1,Married,80,2020-11-18,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1968,20000.0
+1389,5104,Roberta Baumbach,Male,1,Married,43,2020-11-18,0000-00-00,Inactive,2020-11-30,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1991,33345.0
+1390,198071,Tom Gutkowski,Male,1,Single,1,2020-11-17,2021-09-05,Inactive,2021-09-05,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1971,7700.0
+1397,5107,Mateo Braun Sr,Male,1,Single,22,2020-11-25,2021-01-22,Inactive,2021-01-22,1333,Staff,Contarct Basis,Buddhist,Technical Officer,2000,27345.5
+1398,5110,Kelsi Koss III,Male,1,Single,48,2020-12-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1995,25000.0
+1399,5111,Lyda Bauch,Male,1,Single,95,2020-12-03,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Welder,1998,15000.0
+1430,5109,Dr Dylan Powlowski,Male,1,Single,24,2020-12-09,0000-00-00,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,Driver,1999,20000.0
+1432,5116,Trudie Davis PhD,Female,1,Single,17,2020-12-14,2021-08-13,Inactive,2021-08-13,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993,40000.0
+1433,50031,Alessia Effertz,Female,1,Married,149,2020-11-23,2021-06-30,Inactive,2021-06-30,\N,Staff,Contarct Basis,Buddhist,HR Consultant-Payroll,1970,33845.0
+1434,5117,Itzel Langosh,Male,1,Single,27,2020-12-16,2021-12-24,Inactive,2021-12-24,\N,Staff,Contarct Basis,Buddhist,Supervisor,1995,22500.0
+1435,50032,Donny Hauck,Male,1,Married,8,2020-12-11,2021-03-11,Inactive,2021-03-11,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987,36647.0
+1436,5119,Ignacio Mohr,Male,5,Married,36,2020-12-19,0000-00-00,Active,0000-00-00,945,Staff,Contarct Basis,Muslim,Engineer Assistant,1983,45000.0
+1437,50029,Elvie Reynolds,Female,1,Married,120,2020-10-02,2021-03-31,Inactive,2021-03-31,\N,Management,Contarct Basis,Buddhist,HR Manager,1976,27808.0
+1439,5120,Houston Pagac,Male,3,Single,33,2020-12-28,2021-07-31,Inactive,2021-07-31,\N,Staff,Contarct Basis,Hindu,Site Engineer,1995,50000.0
+1440,5121,Ariel Wolff,Male,1,Single,89,2021-01-06,2021-08-16,Inactive,2021-08-16,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1993,45000.0
+1441,5123,Miss Fleta Rowe I,Male,1,Single,22,2021-01-07,2021-05-31,Inactive,2021-05-31,1538,Staff,Contarct Basis,Buddhist,Technical Officer,1991,28781.833333333336
+1443,5124,Dane Jones,Male,1,Married,8,2021-01-11,2021-04-24,Inactive,2021-04-24,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1985,34719.33333333333
+1445,5125,Clarabelle Lemke II,Male,1,Married,17,2021-01-15,2021-01-19,Inactive,2021-01-19,\N,Staff,Contarct Basis,Buddhist,Account Executive,1986,29598.0
+1446,5126,Mrs Celestine Cartwright IV,Male,3,Married,22,2021-01-15,2021-12-31,Inactive,2021-12-31,\N,Staff,Contarct Basis,Hindu,Technical Officer,1989,30000.0
+1538,5135,Estel Hahn,Male,1,Married,6,2021-01-25,2022-02-28,Inactive,2022-02-28,\N,Staff,Contarct Basis,Buddhist,Project Manager,1964,100000.0
+1539,51008,Reagan Marquardt,Male,1,Single,153,2021-02-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Store Labour,1994,0.0
+1543,5137,Dr Alexie Simonis,Male,1,Single,17,2021-02-05,2021-07-31,Inactive,2021-07-31,\N,Staff,Contarct Basis,Buddhist,Account Executive,1994,30000.0
+1619,5154,Erin Grimes,Male,3,Married,36,2021-02-20,2021-06-22,Inactive,2021-06-22,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994,43990.0
+1625,5153,Ava Okuneva,Male,1,Married,66,2021-02-16,2021-08-15,Inactive,2021-08-15,\N,Management,Contarct Basis,Buddhist,HR & Admin Officer,1975,0.0
+1629,5155,Zola Lind Jr,Male,1,Married,78,2021-03-11,2021-07-21,Inactive,2021-07-21,\N,Management,Contarct Basis,Buddhist,Assistant Accountant,1990,0.0
+1630,5207,Dr Sid Rutherford,Male,3,Married,7,2021-03-12,2022-04-01,Inactive,2022-04-01,\N,Staff,Contarct Basis,Hindu,Store Keeper,1996,25000.0
+1636,179028,Christy Gleichner,Male,1,Single,122,2021-02-04,2022-06-30,Inactive,2022-06-30,\N,Labour,Contarct Basis,Buddhist,Security,1980,36000.0
+1637,189051,Devin Osinski,Male,1,Married,55,2021-02-01,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Fitter,1997,55000.0
+1644,179030,Wyman Bashirian,Male,1,Married,134,2021-03-12,2022-04-19,Inactive,2022-04-19,\N,Labour,Contarct Basis,Buddhist,Caretaker,1952,10000.0
+1657,5208,Marques Prohaska,Male,1,Married,48,2021-03-22,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1978,65000.0
+1683,5211,Prof Nona Mante,Male,1,Married,108,2021-04-02,2022-06-25,Inactive,2022-06-25,\N,Staff,Contarct Basis,Buddhist,QAQC Engineer,1987,60000.0
+1685,5212,Vita Lind MD,Male,1,Married,22,2021-04-05,0000-00-00,Active,0000-00-00,2631,Staff,Contarct Basis,Buddhist,Technical Officer,1987,30000.0
+1715,5253,Lamont Leffler,Male,1,Single,104,2021-04-19,2021-08-25,Inactive,2021-08-25,\N,Management,Contarct Basis,Buddhist,Accountant,1989,0.0
+1716,5254,Angeline Turcotte,Male,1,Single,9,2021-04-19,2021-08-12,Inactive,2021-08-12,\N,Staff,Contarct Basis,Buddhist,Assistance QS,1995,28000.0
+1738,198100,Ms Eugenia Yost V,Male,1,Married,1,2021-04-24,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1964,30750.0
+1739,5256,Lukas Walter,Male,1,Married,162,2021-04-20,2021-12-10,Inactive,2021-12-10,1739,Management,Contarct Basis,Buddhist,Chief Project Officer,1970,0.0
+1740,5258,Treva Hoppe,Male,1,Married,163,2021-04-27,2021-08-19,Inactive,2021-08-19,\N,Management,Contarct Basis,Buddhist,Manager Transport and Logistic,1975,0.0
+1741,5259,Mrs Mallie Torp IV,Female,1,Single,161,2021-04-27,2021-08-31,Inactive,2021-08-31,\N,Staff,Contarct Basis,Buddhist,QS Contract,1992,30000.0
+1760,5275,Prof Maxine Becker II,Male,1,Married,27,2021-05-11,2022-01-31,Inactive,2022-01-31,\N,Staff,Contarct Basis,Buddhist,Supervisor,1969,27500.0
+1761,5276,Murphy O'Hara,Male,1,Married,27,2021-05-11,0000-00-00,Inactive,2021-08-14,\N,Staff,Contarct Basis,Buddhist,Supervisor,1963,27500.0
+1771,198110,Mr Cesar Powlowski II,Male,1,Married,31,2021-05-14,2022-11-21,Inactive,2022-11-21,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,23100.0
+1772,200033,Nels Schulist,Male,3,Married,30,2021-05-03,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1954,37500.0
+1773,200034,Fidel Muller,Male,3,Married,30,2021-05-05,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1992,33000.0
+1784,196113,Carol Mertz MD,Male,1,Married,43,2021-05-18,2022-03-12,Inactive,2022-03-12,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1980,10000.0
+1800,5278,Prof Bethel Lemke,Male,5,Married,8,2021-05-17,2022-12-17,Inactive,2022-12-17,\N,Staff,Contarct Basis,Muslim,Quantity Surveyor,1993,35000.0
+1803,200021,Duncan Waters,Male,3,Married,122,2021-02-06,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Security,1981,17050.0
+1804,200022,Miss Jeanne Schoen,Male,3,Married,122,2021-02-06,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Security,1981,17050.0
+1814,1795001,Dr Ryann Feest PhD,Male,1,Married,122,2021-05-21,2022-07-26,Inactive,2022-07-26,\N,Labour,Contarct Basis,Buddhist,Security,1978,8400.0
+1815,1795002,Myriam Buckridge,Male,1,Married,122,2021-05-21,2022-11-28,Inactive,2022-11-28,\N,Labour,Contarct Basis,Buddhist,Security,1979,7000.0
+1816,1795003,Emelie Langworth,Male,1,Married,24,2021-05-13,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Driver,1968,15600.0
+1820,198112,Miss Libbie Reinger,Male,1,Married,122,2021-05-24,2022-05-06,Inactive,2022-05-06,\N,Labour,Contarct Basis,Buddhist,Security,1992,11200.0
+1822,193141,Jodie Satterfield,Male,1,Married,55,2021-06-02,2022-03-26,Inactive,2022-03-26,\N,Labour,Contarct Basis,Buddhist,Fitter,1975,47500.0
+1825,193144,Antonetta Wyman,Male,1,Married,31,2021-06-02,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959,30000.0
+1827,1795005,Dr Serena Trantow,Male,1,Married,31,2021-06-01,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,41400.0
+1833,179033,Ms Delores Towne DDS,Male,1,Married,29,2021-06-01,2022-07-23,Inactive,2022-07-23,\N,Labour,Contarct Basis,Buddhist,Cook,1987,26000.0
+1834,5279,Adonis Trantow MD,Male,3,Married,33,2021-06-05,2022-01-17,Inactive,2022-01-17,1834,Staff,Contarct Basis,Hindu,Site Engineer,1994,50000.0
+1844,1795014,Jefferey Torp,Male,1,Married,31,2021-06-10,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983,30600.0
+1846,1795016,Mr Erik Bruen PhD,Male,1,Married,4,2021-06-10,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1958,30600.0
+1849,193146,Elissa Krajcik,Male,1,Married,31,2021-06-08,2022-04-11,Inactive,2022-04-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987,18000.0
+1850,1795018,Donnie Bergstrom,Male,1,Married,31,2021-06-14,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978,25200.0
+1852,1795020,Marina Reichert III,Male,1,Married,124,2021-06-14,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Mason,1977,35000.0
+1854,1795022,Chesley Morissette,Male,1,Married,124,2021-06-14,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Mason,1969,35000.0
+1855,1795023,Mrs Sally Spencer,Male,1,Married,31,2021-06-15,2022-04-11,Inactive,2022-04-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,25200.0
+1857,196115,Prof Christop West IV,Male,1,Single,31,2021-06-01,2022-02-15,Inactive,2022-02-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,28600.0
+1860,196118,Dixie Gleason,Male,1,Single,31,2021-06-02,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,28600.0
+1861,196119,Mrs Emely Oberbrunner DVM,Male,1,Single,31,2021-06-02,2022-01-03,Inactive,2022-01-03,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,31200.0
+1862,196120,Prof Viola Swaniawski,Male,1,Married,31,2021-06-02,2022-06-16,Inactive,2022-06-16,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,29250.0
+1863,196121,Rollin Okuneva,Male,1,Married,31,2021-06-03,2022-06-17,Inactive,2022-06-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,27950.0
+1865,196123,Stephania Greenholt,Male,1,Married,31,2021-06-03,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962,27300.0
+1867,196125,Vanessa Wuckert,Male,1,Married,31,2021-06-05,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963,23400.0
+1873,196131,Gust Pagac,Male,1,Married,30,2021-06-14,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1998,22400.0
+1874,196132,Hulda Wolf,Male,1,Single,31,2021-06-14,2022-02-23,Inactive,2022-02-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,12350.0
+1878,196136,Miss Viola Collins DDS,Male,1,Married,55,2021-06-14,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Fitter,1998,26000.0
+1881,196138,Rhett Haley,Male,1,Married,31,2021-06-15,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,16900.0
+1886,1795024,Braxton Volkman,Male,1,Married,31,2021-06-18,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,18000.0
+1890,1795026,Clotilde Boyer III,Male,3,Married,31,2021-06-21,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1978,7200.0
+1892,193145,Lelah Williamson,Male,1,Married,31,2021-06-04,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962,28500.0
+1899,193156,Mr Lon Hackett,Male,1,Married,80,2021-06-15,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Driver - cab,1965,9000.0
+1902,193159,Miss Clara Hessel I,Male,1,Married,31,2021-06-17,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965,15000.0
+1903,193160,Ms Nellie Bruen Jr,Male,1,Married,55,2021-06-18,2022-06-04,Inactive,2022-06-04,\N,Labour,Contarct Basis,Buddhist,Fitter,1961,20000.0
+1904,193161,Estella Heidenreich Jr,Female,1,Married,31,2021-06-23,2022-03-16,Inactive,2022-03-16,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,9900.0
+1906,193162,Emmitt Kling,Male,1,Married,31,2021-06-07,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,19500.0
+1909,193164,Adan Schimmel,Male,1,Married,31,2021-06-02,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962,30000.0
+1916,1795033,Miss Etha Hudson Sr,Male,1,Married,31,2021-06-30,2022-03-26,Inactive,2022-03-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967,3600.0
+1917,1795034,Sage Lebsack,Male,1,Married,31,2021-06-28,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983,5400.0
+1918,5285,Alverta Bode,Male,1,Married,90,2021-06-18,2022-02-28,Inactive,2022-02-28,\N,Staff,Contarct Basis,Buddhist,Assistant manager - HR,1990,60000.0
+1920,1795036,Cordelia Vandervort IV,Male,1,Married,124,2021-06-28,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Mason,1974,7500.0
+1926,179034,Kayley Bosco,Male,1,Married,31,2021-07-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959,10000.0
+1931,5286,Micheal Reichel,Male,1,Married,33,2021-06-29,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Site Engineer,1994,50000.0
+1932,193171,Blake Jast,Male,1,Married,124,2021-07-02,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Mason,1969,4950.0
+1935,1795040,Dolores Kerluke,Male,1,Single,31,2021-07-05,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,13120.0
+1936,196139,Golda Bogan,Male,1,Married,24,2021-07-01,2022-02-26,Inactive,2022-02-26,\N,Labour,Contarct Basis,Buddhist,Driver,1988,1100.0
+1938,193168,Garrett Stiedemann,Male,1,Married,124,2021-06-01,2022-06-04,Inactive,2022-06-04,\N,Labour,Contarct Basis,Buddhist,Mason,1987,57500.0
+1941,196141,Miss Melyssa Moore DVM,Male,1,Single,31,2021-07-08,2022-02-23,Inactive,2022-02-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,4675.0
+1947,179037,Daphne Harris,Female,1,Single,125,2021-07-12,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Data Colector,1998,3250.0
+1952,50037,Dahlia Mueller,Male,1,Married,167,2021-04-01,2022-06-30,Inactive,2022-06-30,\N,Management,Contarct Basis,Buddhist,IT Consultant,1993,0.0
+1954,1795042,Shanel Kris DVM,Male,1,Married,31,2021-07-14,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1954,8960.0
+1955,179039,Yesenia Dickens Jr,Male,1,Single,139,2021-07-15,2022-04-21,Inactive,2022-04-21,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1995,10250.0
+1957,5300,Zella Macejkovic,Female,1,Single,112,2021-07-15,2022-11-30,Inactive,2022-11-30,\N,Staff,Contarct Basis,Buddhist,Data Entry Executive,1998,15000.0
+1959,5302,Claud Nolan,Male,1,Married,49,2021-07-14,0000-00-00,Active,0000-00-00,545,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1991,25000.0
+1960,5303,Dejah Prosacco,Male,1,Married,24,2021-07-07,2021-10-01,Inactive,2021-10-01,\N,Staff,Contarct Basis,Buddhist,Driver,1975,20000.0
+1961,5304,Terrence Weimann,Male,5,Single,89,2021-07-12,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Muslim,Planning Engineer,1994,75000.0
+1962,5305,Mrs Theresia Stokes DVM,Male,1,Married,7,2021-07-16,2021-07-21,Inactive,2021-07-21,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1979,0.0
+1964,5307,Jamison Feest,Male,1,Married,6,2021-07-16,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Project Manager,1986,100000.0
+1965,1795043,Samantha Wolff,Male,1,Married,31,2021-07-19,2022-02-08,Inactive,2022-02-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974,5760.0
+1967,5309,Erling Upton,Male,1,Married,7,2021-07-19,2021-07-21,Inactive,2021-07-21,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1969,0.0
+1969,5311,Elmira Gleason,Male,1,Single,158,2021-07-20,2021-12-21,Inactive,2021-12-21,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1994,20000.0
+1970,1795044,Isac Marvin Jr,Male,1,Married,31,2021-07-19,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,6400.0
+1975,198121,Mariam Lindgren,Male,1,Married,31,2021-07-01,2022-06-10,Inactive,2022-06-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978,19320.0
+1976,5312,Mr Rodrick Bartell,Male,1,Single,49,2021-07-26,2021-12-04,Inactive,2021-12-04,545,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1996,20000.0
+1985,5315,Stephania Conn,Male,3,Single,36,2021-07-28,2021-12-07,Inactive,2021-12-07,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994,30000.0
+1987,1795049,Arlie Ruecker Sr,Male,1,Married,31,2021-07-30,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,640.0
+1988,189065,Dr Nadia Tillman IV,Male,1,Married,43,2021-07-29,2022-02-21,Inactive,2022-02-21,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1994,20010.0
+1993,1795050,Mrs Shaniya Swaniawski,Male,5,Married,124,2021-08-02,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Muslim,Mason,1980,11000.0
+1996,179040,Dianna Quigley,Female,1,Single,125,2021-07-30,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Data Colector,1993,4000.0
+1998,179041,Alfredo Pfeffer,Female,1,Single,125,2021-08-02,2022-04-22,Inactive,2022-04-22,\N,Labour,Contarct Basis,Buddhist,Data Colector,1993,3105.0
+2000,5317,Mable Langworth,Male,1,Married,78,2021-08-02,2021-12-09,Inactive,2021-12-09,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1987,50000.0
+2001,5318,Marianne Hessel,Male,1,Single,33,2021-08-02,2021-08-03,Inactive,2021-08-03,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993,0.0
+2002,5319,Gerry Kshlerin,Male,1,Single,36,2021-08-02,2022-01-21,Inactive,2022-01-21,545,Staff,Contarct Basis,Buddhist,Engineer Assistant,1991,31000.0
+2006,201001,Berta Davis,Male,1,Married,31,2021-07-30,2022-11-15,Inactive,2022-11-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,15400.0
+2007,1795051,Norene Sipes,Male,1,Married,31,2021-08-03,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,10500.0
+2009,5320,Jeffry Hansen,Male,1,Single,54,2021-07-28,2021-11-11,Inactive,2021-11-11,\N,Staff,Contarct Basis,Buddhist,Lab Technician,1991,29500.0
+2010,5321,Malinda Ritchie,Male,1,Single,36,2021-08-05,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1995,31000.0
+2013,201005,Dr Neal Zemlak,Female,1,Married,25,2021-08-02,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Document Controller,1987,11385.0
+2016,201008,Edison Mills,Male,3,Single,31,2021-08-08,2022-02-25,Inactive,2022-02-25,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1997,19200.0
+2017,5322,Ms Rowena Mayert IV,Male,1,Married,6,2021-08-09,0000-00-00,Active,0000-00-00,2017,Staff,Contarct Basis,Buddhist,Project Manager,1967,100000.0
+2018,5323,Miss Rita Considine PhD,Male,1,Single,22,2021-08-09,2021-08-13,Inactive,2021-08-13,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996,25782.5
+2019,5324,Uriah Nienow,Male,1,Married,22,2021-08-09,0000-00-00,Active,0000-00-00,673,Staff,Contarct Basis,Buddhist,Technical Officer,1990,26000.0
+2020,1795052,Arnulfo Kuphal,Male,5,Married,31,2021-08-10,2022-05-19,Inactive,2022-05-19,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1964,8500.0
+2023,1795054,Drake Hamill,Male,1,Married,31,2021-08-11,2022-05-05,Inactive,2022-05-05,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,8000.0
+2024,1795055,Miss Savanah Moore Sr,Male,1,Married,31,2021-08-11,2022-02-07,Inactive,2022-02-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984,5500.0
+2027,5325,Jaquelin Kohler,Female,1,Single,170,2021-08-11,2022-07-14,Inactive,2022-07-14,\N,Staff,Contarct Basis,Buddhist,Planning Engineer cum QAQC,1996,37500.0
+2031,195033,Mr Shaun Mante Jr,Male,3,Married,29,2021-08-13,2021-10-23,Inactive,2021-10-23,\N,Labour,Contarct Basis,Hindu,Cook,1985,19200.0
+2033,1795058,Clarissa Goodwin,Male,1,Married,124,2021-08-13,2022-04-05,Inactive,2022-04-05,\N,Labour,Contarct Basis,Buddhist,Mason,1996,7150.0
+2034,1795059,Bridgette Halvorson,Male,1,Married,124,2021-08-13,2022-05-05,Inactive,2022-05-05,\N,Labour,Contarct Basis,Buddhist,Mason,1990,7150.0
+2036,5326,Mckenzie Bruen,Male,1,Married,168,2021-08-17,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Planning Executive,1982,65000.0
+2040,5327,Norma Hartmann MD,Male,1,Married,158,2021-08-19,2022-04-30,Inactive,2022-04-30,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1995,30000.0
+2043,193176,Ms Pearlie Hettinger Sr,Male,1,Single,31,2021-08-17,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,11680.0
+2044,1795062,Mireille Bergnaum,Male,1,Married,124,2021-08-20,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Mason,1963,3850.0
+2045,1795063,Allene Larson,Male,1,Married,124,2021-08-20,2022-06-06,Inactive,2022-06-06,\N,Labour,Contarct Basis,Buddhist,Mason,1968,4950.0
+2048,1795065,Prof Patrick Kohler,Male,1,Married,31,2021-08-21,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991,4000.0
+2049,1795066,Prof Lonie O'Hara,Male,1,Single,31,2021-08-21,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991,3000.0
+2050,1795067,Laverne Hudson,Male,1,Married,124,2021-08-21,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Mason,1975,4950.0
+2053,1795070,Rachelle Kling,Male,1,Married,31,2021-08-21,2022-11-30,Inactive,2022-11-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974,5000.0
+2054,1795071,Mrs Stacy Larson,Male,1,Married,31,2021-08-23,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966,4000.0
+2057,1795074,Estell Bins MD,Male,1,Married,31,2021-08-23,2022-05-07,Inactive,2022-05-07,\N,Labour,Permanant,Buddhist,Unskilled Labor,1978,3000.0
+2059,1795076,Miss Eden Runolfsson,Male,1,Married,124,2021-08-23,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Mason,1955,2750.0
+2060,1795077,Meredith Kuhic PhD,Male,1,Married,124,2021-08-23,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Mason,1975,4950.0
+2062,1795079,Erica Barton,Male,1,Married,31,2021-08-23,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967,3500.0
+2063,5329,Prof Freda Eichmann,Male,1,Married,22,2021-08-23,2022-04-30,Inactive,2022-04-30,2064,Staff,Contarct Basis,Buddhist,Technical Officer,1994,26000.0
+2065,204001,Jerrell Witting,Male,1,Married,122,2021-08-20,2022-03-16,Inactive,2022-03-16,\N,Labour,Contarct Basis,Buddhist,Security,1978,0.0
+2068,204004,Prof Dusty Purdy Sr,Male,1,Single,129,2021-08-20,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1997,11200.0
+2070,204006,Ms Rafaela Johns MD,Female,1,Married,31,2021-08-21,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988,11520.0
+2073,1795080,Oceane Krajcik I,Male,1,Married,124,2021-08-25,2022-05-07,Inactive,2022-05-07,\N,Labour,Contarct Basis,Buddhist,Mason,1955,3300.0
+2079,196144,Floyd Brown,Male,1,Married,24,2021-08-17,2022-03-22,Inactive,2022-03-22,\N,Labour,Contarct Basis,Buddhist,Driver,1976,14490.0
+2080,196145,Prof Alaina Wolf,Male,1,Single,31,2021-08-20,2022-01-20,Inactive,2022-01-20,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,8960.0
+2085,196146,Prof Geoffrey Weber IV,Male,1,Married,24,2021-08-26,2022-02-10,Inactive,2022-02-10,\N,Labour,Contarct Basis,Buddhist,Driver,1986,9280.0
+2086,196147,Libby Rice,Male,1,Married,24,2021-08-26,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Driver,1977,7360.0
+2088,51018,Eugene Windler,Male,1,Single,56,2021-08-31,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Helper,2002,0.0
+2089,195034,Prof Carmelo Adams,Male,3,Single,31,2021-08-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2002,17280.0
+2093,193177,Adonis Runolfsdottir,Male,1,Married,31,2021-08-25,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,1100.0
+2094,5333,Noelia Cremin,Male,1,Married,22,2021-08-31,0000-00-00,Active,0000-00-00,673,Staff,Contarct Basis,Buddhist,Technical Officer,1989,26000.0
+2096,193178,Hilma Bartell,Male,1,Married,31,2021-08-13,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,1280.0
+2097,195035,Cortez Bartoletti,Male,3,Single,31,2021-08-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2002,18560.0
+2101,1795090,Daron Bahringer,Male,1,Single,124,2021-09-01,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Mason,1993,14300.0
+2102,1795091,Jalyn Maggio,Male,1,Married,31,2021-09-01,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966,12500.0
+2105,1795094,Treva Powlowski,Male,1,Single,31,2021-09-01,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,10500.0
+2106,1795095,Prof Braxton Bode DVM,Male,1,Single,31,2021-09-02,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985,12000.0
+2107,5334,Isadore Kirlin,Male,1,Married,78,2021-09-01,2022-05-06,Inactive,2022-05-06,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1985,0.0
+2110,5337,Etha Wolf,Male,1,Married,83,2021-09-01,2021-12-18,Inactive,2021-12-18,\N,Staff,Contarct Basis,Buddhist,Mechanical Engineer,1993,40000.0
+2111,5338,Prof Clay Buckridge,Male,1,Single,33,2021-09-01,2021-12-27,Inactive,2021-12-27,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994,60000.0
+2112,5339,Deja Durgan,Male,1,Married,22,2021-09-01,2021-10-01,Inactive,2021-10-01,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1986,19243.333333333336
+2116,1795098,Samanta Williamson,Male,1,Married,124,2021-09-06,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Mason,1991,11000.0
+2119,5340,Meredith Becker,Male,1,Married,6,2021-09-08,2022-09-07,Inactive,2022-09-07,2709,Staff,Contarct Basis,Buddhist,Project Manager,1982,100000.0
+2120,1795099,Dashawn Kassulke,Male,1,Married,31,2021-09-09,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,8000.0
+2121,195037,Mr Demarco Shields,Male,1,Married,43,2021-09-04,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1991,14850.0
+2122,1795100,Tanner Hegmann,Male,1,Single,124,2021-09-10,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Mason,2000,8800.0
+2123,1795101,Karley Jerde,Male,1,Single,31,2021-09-10,2022-02-11,Inactive,2022-02-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,8000.0
+2124,50041,Elmore Rutherford,Male,1,Married,33,2021-09-01,2022-03-14,Inactive,2022-03-14,2124,Staff,Contarct Basis,Buddhist,Site Engineer,1950,150000.0
+2126,203002,Duane Tromp III,Male,1,Married,24,2021-09-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Driver,1987,4000.0
+2127,203003,Dr Sammie Volkman,Male,1,Single,31,2021-09-01,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,5250.0
+2132,1795102,Yoshiko Leannon,Male,1,Married,124,2021-09-13,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Mason,1958,8800.0
+2133,1795103,Mrs Marianna Shields,Male,1,Married,124,2021-09-13,2022-04-10,Inactive,2022-04-10,\N,Labour,Contarct Basis,Buddhist,Mason,1973,7700.0
+2134,5341,Jewell Hoppe II,Male,5,Married,89,2021-09-13,2021-09-14,Inactive,2021-09-14,\N,Staff,Contarct Basis,Muslim,Planning Engineer,1994,54830.0
+2135,5342,Eula Welch,Male,1,Single,22,2021-09-13,0000-00-00,Active,0000-00-00,2631,Staff,Contarct Basis,Buddhist,Technical Officer,1993,0.0
+2136,51019,Danielle Crona,Male,1,Single,173,2021-09-06,2022-01-01,Inactive,2022-01-01,\N,Staff,Contarct Basis,Buddhist,Trainee Safety Officer,1995,0.0
+2137,1795104,Prof Shanel Hilpert III,Male,1,Single,31,2021-09-14,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977,6500.0
+2138,1795105,Monroe Tremblay DDS,Male,1,Married,31,2021-09-14,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974,6500.0
+2140,198128,Hubert Schneider,Male,1,Married,41,2021-09-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Electrician,1968,550.0
+2142,198130,Brenda Denesik,Male,1,Single,41,2021-09-13,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Electrician,1979,1650.0
+2146,199078,Adolf White,Male,3,Single,31,2021-09-15,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1996,500.0
+2147,1795109,Avis Oberbrunner,Male,1,Single,1,2021-09-16,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1993,4400.0
+2148,1795110,Prof Eric Lowe,Male,4,Married,1,2021-09-16,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1987,4400.0
+2150,1795112,Prof Coralie Reichel DVM,Male,3,Married,31,2021-09-17,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1972,5500.0
+2153,1795115,Melvina Rowe,Male,1,Married,31,2021-09-21,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,4000.0
+2158,198131,Talia Bergstrom,Male,1,Married,30,2021-09-08,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1970,2000.0
+2159,193180,Aracely Wisozk,Male,1,Married,43,2021-09-15,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1994,10175.0
+2160,1795116,Dr Orland Ryan,Male,1,Single,31,2021-09-16,2022-05-19,Inactive,2022-05-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,4000.0
+2161,5343,Rene Mitchell,Male,1,Single,7,2021-09-10,2022-12-18,Inactive,2022-12-18,\N,Staff,Contarct Basis,Buddhist,Store Keeper,2000,20000.0
+2162,5344,Maida Barton DVM,Male,1,Single,158,2021-09-13,2022-01-31,Inactive,2022-01-31,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1995,30000.0
+2163,5345,Brigitte Halvorson,Female,1,Married,17,2021-09-21,2022-02-06,Inactive,2022-02-06,\N,Staff,Contarct Basis,Buddhist,Account Executive,1989,0.0
+2165,5347,Mrs Tamia Nolan III,Male,1,Married,158,2021-09-27,2022-01-06,Inactive,2022-01-06,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1996,23500.0
+2166,196149,Dallin Macejkovic,Male,1,Single,195,2021-09-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1999,1500.0
+2168,203006,Candace Ankunding PhD,Male,1,Married,129,2021-09-13,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1966,250.0
+2193,1795118,Prof Oscar Fadel,Male,1,Married,31,2021-10-05,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,9000.0
+2195,193182,Valentin Toy,Male,1,Married,31,2021-10-07,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,8250.0
+2196,193183,Dr Lamont Murphy IV,Male,1,Single,31,2021-10-04,2022-03-18,Inactive,2022-03-18,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,7975.0
+2197,5349,Freeda Rice IV,Male,1,Single,17,2021-10-01,2021-11-01,Inactive,2021-11-01,\N,Staff,Contarct Basis,Buddhist,Account Executive,1998,20000.0
+2200,1795119,Karina Predovic III,Male,1,Married,31,2021-10-08,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961,7750.0
+2204,1795122,Gabriella Gleason,Male,1,Married,31,2021-10-09,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,8500.0
+2207,5351,Dr Katherine Kovacek,Male,1,Married,24,2021-09-13,2022-04-30,Inactive,2022-04-30,\N,Staff,Contarct Basis,Buddhist,Driver,1969,20000.0
+2208,5352,Ransom Grant,Male,1,Married,22,2021-10-11,0000-00-00,Active,0000-00-00,2709,Staff,Contarct Basis,Buddhist,Technical Officer,1996,23500.0
+2209,5353,Judd Hartmann,Male,1,Single,22,2021-10-11,0000-00-00,Active,0000-00-00,2631,Staff,Contarct Basis,Buddhist,Technical Officer,1996,25000.0
+2210,5354,Mr Franco Friesen Jr,Female,1,Single,178,2021-10-12,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Trainee Purchasing Officer,1996,20000.0
+2211,5355,Carol Weimann,Female,1,Single,178,2021-10-12,2021-11-09,Inactive,2021-11-09,\N,Staff,Contarct Basis,Buddhist,Trainee Purchasing Officer,1997,20000.0
+2214,1795125,Kaylie Von,Male,1,Married,31,2021-10-13,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,6250.0
+2216,193185,Karen Wolf,Male,1,Married,31,2021-10-13,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,1650.0
+2217,193186,Delilah Mueller,Male,1,Married,31,2021-10-12,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961,6600.0
+2220,50042,Jay Buckridge,Female,3,Single,45,2021-08-02,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Hindu,Construction Manager,1963,0.0
+2221,1795126,Kendrick Runolfsson,Male,1,Married,124,2021-10-14,2022-03-24,Inactive,2022-03-24,\N,Labour,Contarct Basis,Buddhist,Mason,1982,8250.0
+2225,5356,Gilbert Hermiston II,Male,1,Married,152,2021-10-14,2022-03-31,Inactive,2022-03-31,\N,Management,Contarct Basis,Buddhist,Manager Contract,1987,100000.0
+2228,198133,Emilie Klein,Male,1,Married,55,2021-10-21,2022-02-28,Inactive,2022-02-28,\N,Labour,Contarct Basis,Buddhist,Fitter,1974,6050.0
+2229,5357,Sheila Jakubowski,Male,1,Married,33,2021-10-11,2021-10-24,Inactive,2021-10-24,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1981,70000.0
+2230,1795128,Dr Adeline Rowe,Male,1,Married,31,2021-10-22,2022-05-05,Inactive,2022-05-05,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974,4500.0
+2231,1795129,Aimee Dach,Male,1,Single,31,2021-10-22,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,3500.0
+2233,5358,Lenore Nikolaus,Male,1,Married,24,2021-10-18,2022-08-31,Inactive,2022-08-31,\N,Staff,Contarct Basis,Buddhist,Driver,1964,20000.0
+2236,5359,Craig Balistreri,Male,1,Married,180,2021-10-25,2021-11-14,Inactive,2021-11-14,\N,Staff,Contarct Basis,Buddhist,Assistant Manager Procurement,1983,60000.0
+2238,5361,Dr Bert Kozey,Male,1,Single,33,2021-10-25,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1995,40000.0
+2246,179043,Enrico Vandervort,Male,1,Married,139,2021-10-05,2022-04-28,Inactive,2022-04-28,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1958,8750.0
+2247,197106,Alberto Wunsch,Male,1,Married,31,2021-10-01,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,2760.0
+2250,197109,Emmanuel Koelpin,Male,1,Married,31,2021-10-25,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,3921.259682539682
+2254,196151,Dr Eldora Hayes,Male,1,Married,29,2021-10-01,2022-06-24,Inactive,2022-06-24,\N,Labour,Contarct Basis,Buddhist,Cook,1987,14000.0
+2255,196152,Mr Zachery Romaguera,Male,1,Single,55,2021-10-15,2022-02-25,Inactive,2022-02-25,\N,Labour,Contarct Basis,Buddhist,Fitter,1983,8250.0
+2256,196153,Margaret Shanahan,Male,1,Single,31,2021-10-19,2021-11-15,Inactive,2021-11-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,4000.0
+2257,196154,Justyn Lindgren,Male,1,Single,31,2021-10-19,2022-03-18,Inactive,2022-03-18,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,4000.0
+2258,198135,Anibal Hamill,Male,1,Married,4,2021-10-27,2021-10-31,Inactive,2021-10-31,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1981,2750.0
+2259,188007,Dr Alicia Keebler,Male,1,Married,31,2021-10-25,2022-04-25,Inactive,2022-04-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,0.0
+2260,188008,Osvaldo Runolfsson,Male,1,Married,31,2021-10-25,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,3840.0
+2262,188010,Sophia Kunde IV,Male,1,Married,55,2021-10-25,2022-04-25,Inactive,2022-04-25,\N,Labour,Contarct Basis,Buddhist,Fitter,1997,7040.0
+2263,188011,Ayana Fritsch,Male,1,Married,31,2021-10-25,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975,5120.0
+2264,188012,Emely Lueilwitz,Male,1,Married,55,2021-10-25,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Fitter,1974,7040.0
+2265,188013,Dr Freddie Brakus,Male,4,Married,31,2021-10-25,2022-04-06,Inactive,2022-04-06,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1964,7040.0
+2267,205001,Prof Wilfrid Renner,Male,1,Married,31,2021-10-16,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1951,8250.0
+2268,205002,Loyce Botsford DDS,Male,1,Single,31,2021-10-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,2750.0
+2275,205003,Enrique Mayer,Male,1,Married,134,2021-10-02,2022-01-13,Inactive,2022-01-13,\N,Labour,Contarct Basis,Buddhist,Caretaker,1953,15000.0
+2276,1795130,Duncan Schumm,Male,1,Married,30,2021-11-01,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1959,16215.0
+2277,51022,Prof Germaine Bergnaum DVM,Female,1,Single,70,2021-11-01,2022-03-31,Inactive,2022-03-31,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,2001,0.0
+2278,51023,Angus Hoeger Jr,Male,1,Married,181,2021-11-01,2022-03-12,Inactive,2022-03-12,\N,Staff,Contarct Basis,Buddhist,Trainee Engineer,1996,0.0
+2279,195038,Velma Kiehn,Male,3,Married,31,2021-10-26,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1982,19200.0
+2291,51024,Prof Mia Ebert,Male,1,Married,31,2021-11-05,2022-01-27,Inactive,2022-01-27,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,0.0
+2296,1795134,Ryley Dare,Male,1,Married,31,2021-11-09,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990,3520.0
+2297,1795135,Morton Schaden,Male,1,Married,31,2021-11-08,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,11520.0
+2299,1795137,Maida Gulgowski,Male,1,Married,31,2021-11-09,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960,10240.0
+2300,196155,Dr Nathaniel McDermott,Male,1,Married,31,2021-11-04,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1952,12800.0
+2301,196156,Annamae Haley,Male,1,Married,31,2021-11-04,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,7040.0
+2302,196157,Delfina Schmitt III,Male,1,Married,31,2021-11-04,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991,12800.0
+2310,179044,Mr Freddy Kuhic PhD,Male,1,Single,139,2021-11-10,2022-04-20,Inactive,2022-04-20,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1997,8960.0
+2314,5366,Keely Gislason,Male,1,Married,24,2021-11-11,2021-11-18,Inactive,2021-11-18,\N,Staff,Contarct Basis,Buddhist,Driver,1992,0.0
+2320,198136,Kyler Fay,Male,1,Married,1,2021-11-16,2022-02-09,Inactive,2022-02-09,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1990,3200.0
+2321,198137,Westley Hermann,Male,1,Married,31,2021-11-16,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992,8320.0
+2322,189070,Robin O'Connell,Male,1,Married,53,2021-11-15,2022-02-20,Inactive,2022-02-20,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,2000,9660.0
+2324,1795139,Alycia Smitham,Male,1,Married,31,2021-11-20,2022-02-01,Inactive,2022-02-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,3200.0
+2325,5367,Humberto Hodkiewicz,Female,1,Single,48,2021-11-15,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993,23500.0
+2327,1795140,Theresa Bernier,Male,1,Married,31,2021-11-23,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973,5120.0
+2328,193194,Wallace Beier IV,Male,1,Single,31,2021-11-22,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,3200.0
+2329,5368,Rosella Walker,Male,1,Single,83,2021-11-22,2022-12-21,Inactive,2022-12-21,\N,Staff,Contarct Basis,Buddhist,Mechanical Engineer,1995,65000.0
+2330,50045,Domingo Raynor,Male,1,Married,58,2021-11-15,2022-06-03,Inactive,2022-06-03,\N,Staff,Contarct Basis,Buddhist,Sociologist,1962,60000.0
+2331,1795141,Miss Bernice Jerde,Male,1,Married,31,2021-11-24,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987,3200.0
+2332,203007,Dr Phyllis Hoppe DDS,Female,1,Married,31,2021-11-10,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,9920.0
+2333,1795142,Alize Bartoletti,Male,1,Married,31,2021-11-26,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982,9600.0
+2334,1795143,Arthur Keebler,Male,1,Married,31,2021-11-26,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973,3200.0
+2337,1795146,Reuben Ebert,Male,1,Married,31,2021-11-29,2022-02-15,Inactive,2022-02-15,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,1280.0
+2339,5369,Prof Archibald Quitzon V,Male,1,Single,8,2021-11-29,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1993,60000.0
+2341,198138,Leonie Effertz MD,Male,1,Married,31,2021-11-29,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,14080.0
+2342,1795147,Omari Hintz,Male,1,Married,124,2021-12-01,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Mason,1976,14490.0
+2343,1795148,Deja Smith,Male,1,Married,31,2021-12-02,2022-03-26,Inactive,2022-03-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,12800.0
+2346,5370,Prof Warren Bartell,Female,1,Single,17,2021-12-01,2022-04-09,Inactive,2022-04-09,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993,30000.0
+2348,198140,Lucius Pfannerstill DDS,Male,1,Married,30,2021-12-03,2022-02-28,Inactive,2022-02-28,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1996,14080.0
+2350,196158,Brandi Daniel Sr,Male,1,Single,31,2021-12-06,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,640.0
+2360,198142,Cheyanne Mueller,Male,1,Married,30,2021-12-09,2022-02-27,Inactive,2022-02-27,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1985,12160.0
+2361,198143,Jaunita O'Connell,Male,1,Single,30,2021-12-09,2022-02-27,Inactive,2022-02-27,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,2001,12160.0
+2364,198146,Adella Walsh,Male,1,Single,30,2021-12-10,2022-02-26,Inactive,2022-02-26,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,2001,12160.0
+2368,51027,Lenore Price I,Male,1,Married,182,2021-12-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Labour,1991,0.0
+2369,201010,Ernest Dietrich DVM,Female,3,Single,184,2021-12-11,2022-03-17,Inactive,2022-03-17,\N,Labour,Contarct Basis,Hindu,Lab Helper,1993,13440.0
+2370,201011,Jade Kuphal,Male,1,Single,169,2021-12-12,2022-11-16,Inactive,2022-11-16,\N,Labour,Contarct Basis,Buddhist,Bobcat Operator,1993,12075.0
+2372,1795151,Dr Sally Ritchie I,Male,1,Single,31,2021-12-14,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,8960.0
+2376,5372,Hillary Cronin,Male,1,Married,22,2021-12-15,0000-00-00,Active,0000-00-00,673,Staff,Contarct Basis,Buddhist,Technical Officer,1970,28500.0
+2379,5374,Leone Blick Sr,Male,1,Single,22,2021-12-16,2022-02-12,Inactive,2022-02-12,\N,Labour,Contarct Basis,Buddhist,Technical Officer,1989,27000.0
+2380,193197,Dr Orpha Padberg,Male,1,Single,31,2021-12-17,2022-05-17,Inactive,2022-05-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2006,6400.0
+2381,193196,Ike Williamson,Male,1,Married,31,2021-12-13,2022-04-11,Inactive,2022-04-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,8320.0
+2382,196160,Lesley Emmerich,Male,1,Married,43,2021-12-15,2022-05-31,Inactive,2022-05-31,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,2000,8280.0
+2383,197110,Mazie Douglas,Male,1,Married,31,2021-12-13,2022-03-14,Inactive,2022-03-14,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982,8320.0
+2384,5375,Kyler Bins,Male,1,Married,7,2021-12-20,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1964,25000.0
+2386,199084,Richie Nitzsche I,Male,1,Married,1,2021-12-15,2022-04-05,Inactive,2022-04-05,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1993,11730.0
+2387,199086,Mrs Jennifer Monahan PhD,Male,1,Single,30,2021-12-18,2022-11-30,Inactive,2022-11-30,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1991,8960.0
+2388,199085,Gudrun Cruickshank,Male,3,Single,30,2021-12-17,2021-12-31,Inactive,2021-12-31,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,2000,4480.0
+2389,51029,Mr Ewell Mueller Sr,Male,1,Single,181,2021-12-20,2022-03-12,Inactive,2022-03-12,\N,Staff,Contarct Basis,Buddhist,Trainee Engineer,1999,0.0
+2393,5377,Lorenza Deckow,Male,1,Single,27,2021-12-23,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Supervisor,1998,28500.0
+2394,193198,Rosie Kutch,Male,1,Married,55,2021-12-20,2022-02-24,Inactive,2022-02-24,\N,Labour,Contarct Basis,Buddhist,Fitter,1966,2760.0
+2396,197112,Leta Pfannerstill,Male,1,Single,31,2021-12-23,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989,4480.0
+2397,197111,Mr Maximus Lakin DDS,Male,1,Single,31,2021-12-20,2022-03-02,Inactive,2022-03-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,6400.0
+2398,197113,Prof Franz Dicki,Male,1,Single,55,2021-12-01,2022-03-02,Inactive,2022-03-02,\N,Labour,Contarct Basis,Buddhist,Fitter,1996,11040.0
+2399,198147,Prof Richmond Dooley III,Male,5,Single,31,2021-12-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1996,2560.0
+2401,1975009,Ms Melba Walter,Male,1,Married,31,2021-12-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,3899.8666666666663
+2404,1795153,Sim Abbott III,Male,1,Married,124,2022-01-03,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Mason,1965,13110.0
+2406,5379,Lavon Littel,Male,1,Married,186,2021-12-07,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Surveyor,1979,55000.0
+2408,1795154,Vaughn Mills,Male,1,Married,31,2022-01-04,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969,12800.0
+2410,199087,Mr Madyson Hammes III,Male,1,Married,95,2021-12-20,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Welder,1974,8280.0
+2411,193199,Mr Hiram Homenick III,Male,1,Single,55,2022-01-03,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Fitter,1996,4140.0
+2427,5382,Dr Daryl Schaefer,Male,1,Single,33,2022-01-03,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993,60000.0
+2428,5383,Dr Mariana Stiedemann DVM,Male,1,Married,187,2022-01-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Material Engineer,1983,55000.0
+2430,5385,Tillman Fadel,Male,1,Single,22,2022-01-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996,26000.0
+2431,1935028,Tracy Sporer,Male,1,Single,31,2022-01-06,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,16640.0
+2432,202002,Ms Karianne Tromp,Male,1,Married,122,2022-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Security,1970,19840.0
+2433,179046,Kennedi Sipes,Female,1,Single,125,2022-01-06,2022-05-03,Inactive,2022-05-03,\N,Labour,Contarct Basis,Buddhist,Data Colector,1998,9920.0
+2435,196162,Mr Rollin Koelpin III,Male,1,Married,31,2022-01-06,2022-06-17,Inactive,2022-06-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,0.0
+2437,197114,Cydney Larson,Male,1,Single,55,2022-01-06,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Fitter,1961,2070.0
+2441,189072,Ophelia Konopelski III,Male,1,Married,31,2022-01-10,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991,4480.0
+2446,51031,Prof Meda Gottlieb Jr,Male,1,Single,70,2022-01-11,2022-07-26,Inactive,2022-07-26,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1999,0.0
+2447,1795156,Mr Julio Ledner II,Male,1,Married,31,2022-01-13,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988,15962.8
+2451,1935030,Dr Ben Skiles,Male,1,Single,31,2022-01-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,37720.0
+2452,189074,Breanne Leuschke,Male,1,Single,31,2022-01-13,2022-02-20,Inactive,2022-02-20,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,12160.0
+2453,206002,Cathrine Rogahn,Male,1,Single,139,2022-01-03,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1999,0.0
+2454,206003,Lisandro Heidenreich IV,Male,1,Married,189,2022-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Lab Assistant,1990,0.0
+2455,206004,Prof Jovan Romaguera,Male,1,Single,189,2022-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Lab Assistant,1989,0.0
+2457,51032,Florence Reichert,Male,1,Single,56,2022-01-18,2022-02-12,Inactive,2022-02-12,\N,Labour,Contarct Basis,Buddhist,Helper,2002,0.0
+2459,1795157,Tara Blick V,Male,1,Single,31,2022-01-21,2022-04-10,Inactive,2022-04-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971,5120.0
+2460,193200,Maeve Mertz,Male,1,Married,31,2022-01-05,2022-02-09,Inactive,2022-02-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963,8320.0
+2461,5387,Prof Shane Heller Jr,Male,1,Married,22,2022-01-01,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Technical Officer,1986,25000.0
+2462,1795158,Mrs Meggie Ankunding,Male,1,Single,80,2022-01-24,2022-03-30,Inactive,2022-03-30,\N,Labour,Contarct Basis,Buddhist,Driver - cab,1996,4480.0
+2466,196165,Prof Kurtis Larkin MD,Male,1,Married,31,2022-01-21,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962,5760.0
+2467,1935032,Graciela Miller III,Male,1,Single,31,2022-01-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,28132.26666666667
+2468,199088,Charity Feil,Male,1,Single,31,2022-01-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,4480.0
+2469,1795159,Miss Ernestine Olson III,Male,1,Married,31,2022-01-25,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973,2880.0
+2470,193203,Osborne Emmerich,Male,1,Married,31,2022-01-25,2022-02-26,Inactive,2022-02-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,1920.0
+2473,196166,Howard Kihn,Male,1,Married,31,2022-01-24,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958,4480.0
+2474,196167,Destinee Kirlin,Male,1,Married,31,2022-01-25,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975,4480.0
+2476,203009,Maci Casper,Male,1,Married,31,2022-01-10,2022-03-02,Inactive,2022-03-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990,11200.0
+2477,195039,Francis Weimann,Male,1,Married,31,2022-01-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985,3200.0
+2478,205004,Lilly Prohaska PhD,Male,1,Single,122,2022-01-14,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Security,1955,11520.0
+2480,198149,Amalia Morissette,Male,1,Married,31,2022-01-31,2022-04-17,Inactive,2022-04-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,640.0
+2481,198148,Rubye Olson,Male,1,Married,26,2022-01-29,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Mechanic,1990,2070.0
+2482,196168,Verdie McKenzie,Male,1,Single,55,2022-01-25,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Fitter,1999,3840.0
+2483,196169,Dr Dean Runolfsson,Male,1,Married,31,2022-01-29,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,1920.0
+2484,196170,Abagail Trantow,Female,1,Married,195,2022-01-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1998,12160.0
+2485,196171,Prince Goodwin,Female,1,Married,195,2022-01-04,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1996,12160.0
+2486,203010,Miss Clementina Kilback,Male,1,Single,31,2022-01-19,2022-04-28,Inactive,2022-04-28,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,6080.0
+2487,1795160,Junior Stamm,Male,1,Married,31,2022-02-01,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964,13440.0
+2488,193205,Eldridge Conroy,Male,1,Single,31,2022-02-01,2022-02-03,Inactive,2022-02-03,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,1920.0
+2489,197117,Prof Sarai Rodriguez,Male,1,Married,31,2022-01-03,2022-05-11,Inactive,2022-05-11,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991,11520.0
+2490,199089,Dixie Bechtelar,Male,3,Single,124,2022-02-01,2022-02-10,Inactive,2022-02-10,\N,Labour,Contarct Basis,Hindu,Mason,2001,6400.0
+2491,195040,Herbert Legros,Male,3,Single,31,2022-02-02,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1994,17920.0
+2493,1795162,Zula Price IV,Male,1,Single,124,2022-02-03,2022-02-03,Inactive,2022-02-03,\N,Labour,Contarct Basis,Buddhist,Mason,1997,690.0
+2495,188015,Oda Flatley Jr,Male,1,Married,31,2022-02-08,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973,9600.0
+2496,196172,Carley Kunze,Male,1,Married,123,2022-02-01,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Carpenter,1973,15870.0
+2498,196174,Norberto Dach,Male,1,Married,31,2022-02-07,2022-02-24,Inactive,2022-02-24,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981,8320.0
+2499,196175,Mrs Kayla Steuber DDS,Male,1,Married,31,2022-02-08,2022-04-08,Inactive,2022-04-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977,9600.0
+2500,193206,Nellie Runolfsdottir,Male,1,Married,31,2022-02-09,2022-04-30,Inactive,2022-04-30,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,9600.0
+2503,1985017,Emmalee Hoeger,Male,1,Married,4,2022-02-09,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1973,10844.492857142857
+2504,5388,Agnes Leuschke,Male,1,Married,190,2022-02-07,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Buddhist,Head of QS - Post Contract,1980,0.0
+2505,5389,Ms Lysanne Welch II,Male,1,Married,158,2022-02-08,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1996,18000.0
+2506,5390,Gerson Ferry,Male,1,Married,33,2022-02-08,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1968,46000.0
+2507,1795164,Hayden Considine V,Male,1,Single,31,2022-02-11,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2000,8320.0
+2508,193207,Gracie Roob,Male,1,Single,55,2022-02-11,2022-02-18,Inactive,2022-02-18,\N,Labour,Contarct Basis,Buddhist,Fitter,1995,4830.0
+2509,193208,Clovis Lakin,Male,1,Single,43,2022-02-04,2022-04-29,Inactive,2022-04-29,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1995,13800.0
+2511,188017,Wilfrid Eichmann IV,Male,1,Married,31,2022-02-08,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,9285.67873015873
+2512,188018,Mr Stanton Towne DDS,Male,1,Single,31,2022-02-08,2022-04-02,Inactive,2022-04-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001,9600.0
+2513,188019,Carleton Nitzsche MD,Male,1,Married,31,2022-02-08,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960,8320.0
+2514,188020,Mrs Megane Sanford,Male,1,Married,31,2022-02-14,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,7680.0
+2515,188021,Mozelle Upton,Male,1,Married,31,2022-02-11,2022-04-06,Inactive,2022-04-06,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980,9600.0
+2516,197118,Anastacio Mosciski,Male,1,Married,31,2022-02-01,2022-03-02,Inactive,2022-03-02,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,6720.0
+2517,197119,Kitty Corwin,Male,1,Married,31,2022-02-01,2022-03-23,Inactive,2022-03-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997,6720.0
+2518,197120,Godfrey Haley IV,Male,1,Single,31,2022-02-01,2022-03-23,Inactive,2022-03-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976,6080.0
+2520,1975011,Reanna Brekke PhD,Male,1,Married,31,2022-02-14,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970,8066.925714285713
+2522,196176,Orland Stiedemann Sr,Male,1,Married,31,2022-02-05,2022-04-09,Inactive,2022-04-09,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,11200.0
+2523,196177,Ottilie Purdy,Male,1,Married,31,2022-02-15,2022-06-17,Inactive,2022-06-17,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,6400.0
+2524,196178,Dale Glover,Male,1,Married,31,2022-02-15,2022-03-06,Inactive,2022-03-06,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1951,5760.0
+2529,196179,Colton Emmerich,Male,1,Married,31,2022-02-22,2022-03-26,Inactive,2022-03-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1979,3200.0
+2530,201012,Jimmy Gutmann Sr,Male,1,Married,29,2022-02-12,2022-06-28,Inactive,2022-06-28,\N,Labour,Contarct Basis,Buddhist,Cook,1963,10880.0
+2531,5393,Marc Spencer,Male,1,Married,163,2022-02-15,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Buddhist,Manager Transport and Logistic,1970,0.0
+2533,5395,Samantha Kuvalis,Male,1,Single,33,2022-02-23,2022-05-28,Inactive,2022-05-28,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994,24000.0
+2535,1795166,Yasmin Mertz,Male,1,Married,31,2022-02-26,2022-03-31,Inactive,2022-03-31,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980,1920.0
+2538,193210,Dexter Nader,Male,1,Married,31,2022-03-01,2022-03-03,Inactive,2022-03-03,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989,1280.0
+2540,1945037,Tristin Schmitt DVM,Male,1,Single,31,2022-03-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,8400.00888888889
+2541,188022,Korey Buckridge I,Male,1,Married,31,2022-03-01,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968,14720.0
+2542,188023,Dr Zoey Mitchell,Male,1,Married,31,2022-03-03,2022-04-25,Inactive,2022-04-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1956,9600.0
+2543,188024,Aaliyah Torp,Male,1,Married,31,2022-03-03,2022-04-25,Inactive,2022-04-25,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966,11520.0
+2544,182011,Shea Grimes,Male,1,Single,31,2022-03-04,2022-05-19,Inactive,2022-05-19,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,15360.0
+2545,182012,Randi Beahan IV,Male,1,Single,31,2022-03-04,2022-04-29,Inactive,2022-04-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,14720.0
+2546,182013,Ebba Quigley,Male,1,Single,31,2022-03-04,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,14720.0
+2548,1795168,Sharon Bednar,Male,1,Single,31,2022-03-08,2022-03-10,Inactive,2022-03-10,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003,1920.0
+2550,1795169,Ms Roxane Adams Jr,Male,1,Married,31,2022-03-08,2022-03-08,Inactive,2022-03-08,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,1280.0
+2551,198151,Prof Lucio Effertz Jr,Male,1,Single,31,2022-03-08,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994,15360.0
+2552,51033,Maurine Schneider,Male,1,Single,56,2022-03-03,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Helper,1996,0.0
+2553,1795171,Prof Nathanial Gerhold,Male,1,Single,31,2022-03-09,2022-03-26,Inactive,2022-03-26,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988,7680.0
+2554,188025,Zelda Kohler,Male,1,Single,53,2022-03-08,2022-04-07,Inactive,2022-04-07,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,1999,14490.0
+2555,5397,Mr Noel Buckridge PhD,Male,1,Single,69,2022-03-01,0000-00-00,Active,0000-00-00,1964,Staff,Contarct Basis,Buddhist,Site Supervisor,2001,20000.0
+2557,193212,Dr Alexandro Davis,Male,1,Married,31,2022-03-10,2022-03-23,Inactive,2022-03-23,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980,7680.0
+2558,1795172,Antonette Wunsch,Male,5,Married,31,2022-03-14,2022-04-06,Inactive,2022-04-06,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1982,7680.0
+2559,196181,Rollin Jacobi DDS,Male,1,Married,55,2022-03-10,2022-06-17,Inactive,2022-06-17,\N,Labour,Contarct Basis,Buddhist,Fitter,1972,15180.0
+2560,196182,Scottie Murray Jr,Male,1,Married,31,2022-03-10,2022-04-01,Inactive,2022-04-01,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990,11520.0
+2561,198152,Doris Flatley,Male,1,Married,31,2022-03-14,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,10880.0
+2562,5399,Dr Paul Weber V,Female,1,Married,8,2022-03-10,2022-06-24,Inactive,2022-06-24,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1983,48000.0
+2563,1935034,Marcelina Boehm,Male,1,Married,31,2022-03-12,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998,9524.266666666668
+2564,1935035,Ms Pinkie Grady DVM,Male,1,Married,31,2022-03-11,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986,9475.1
+2565,5400,Dillon Oberbrunner DDS,Male,1,Married,191,2022-03-15,2022-07-26,Inactive,2022-07-26,\N,Staff,Contarct Basis,Buddhist,Logistic Assistant,1994,30000.0
+2566,1935033,Edythe Altenwerth,Male,1,Married,31,2022-03-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999,8400.00888888889
+2567,1935036,Gisselle Nitzsche,Male,1,Married,31,2022-03-03,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996,11185.876666666667
+2568,193213,Mr Peyton Kulas,Female,1,Single,30,2022-03-16,2022-05-09,Inactive,2022-05-09,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1998,8320.0
+2569,5401,Elliot Luettgen,Male,1,Single,22,2022-03-10,0000-00-00,Active,0000-00-00,2709,Staff,Contarct Basis,Buddhist,Technical Officer,1991,26000.0
+2570,1795173,Albertha O'Conner,Male,1,Married,31,2022-03-19,2022-03-29,Inactive,2022-03-29,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995,3840.0
+2572,5403,Miss Oleta Rath,Male,1,Married,192,2022-03-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Assistant Planning Engineer,1995,25000.0
+2573,5404,Delfina Fay DVM,Male,1,Single,7,2022-03-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Store Keeper,2000,22000.0
+2574,5405,Davon Rath,Male,1,Single,33,2022-03-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1995,32000.0
+2575,5406,Jewell Sipes,Male,5,Married,6,2022-03-22,2022-04-04,Inactive,2022-04-04,\N,Staff,Contarct Basis,Muslim,Project Manager,1964,120000.0
+2576,1985018,Mr Easton Balistreri,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1975,5640.983809523808
+2577,1985019,Guiseppe Schultz,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1990,5640.983809523808
+2578,1985020,Dan Connelly,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1974,5640.983809523808
+2579,1985021,Dr Blaise Lebsack,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1987,5640.983809523808
+2580,1985022,Lee Beatty,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1995,5640.983809523808
+2581,1985023,Aliyah Mohr,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1987,5640.983809523808
+2582,1985024,Miss Queenie VonRueden V,Male,1,Married,4,2022-03-19,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1972,5640.983809523808
+2586,1935037,Philip Lowe,Male,1,Single,31,2022-03-14,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,9015.382857142857
+2588,201013,Mr Gavin Dach,Male,1,Single,31,2022-03-25,2022-09-05,Inactive,2022-09-05,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002,4480.0
+2592,5410,Mr Joan Effertz,Male,5,Married,22,2022-04-06,2022-08-31,Inactive,2022-08-31,\N,Staff,Contarct Basis,Muslim,Technical Officer,1997,30000.0
+2593,5411,Else Hyatt,Male,1,Married,8,2022-04-18,2022-05-03,Inactive,2022-05-03,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1997,25500.0
+2594,5412,Adrain Welch,Male,3,Single,8,2022-04-18,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1997,25000.0
+2597,5414,Mr Greg Mayer DDS,Male,1,Married,22,2022-04-19,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1994,30000.0
+2598,1945039,Dean Zemlak,Male,1,Married,4,2022-04-23,0000-00-00,Active,0000-00-00,\N,Labour,Permanant,Buddhist,Bar Bender,1987,17129.6
+2599,1945040,Talon Hudson,Male,1,Married,124,2022-04-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Mason,1968,10247.893333333333
+2600,51034,Prof Trevor Ledner,Male,1,Married,56,2022-04-26,2022-05-04,Inactive,2022-05-04,\N,Labour,Contarct Basis,Buddhist,Helper,1986,0.0
+2601,5416,Miss Alene Stokes DVM,Male,1,Married,90,2022-04-28,2022-08-27,Inactive,2022-08-26,\N,Staff,Contarct Basis,Buddhist,Assistant manager - HR,1987,60000.0
+2602,1945041,Alana Friesen Sr,Male,1,Married,31,2022-04-26,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965,8339.86
+2603,1945042,Lia Dietrich DVM,Male,1,Married,31,2022-04-27,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,8004.5
+2604,5418,Price Zieme,Male,1,Married,78,2022-05-03,2022-09-19,Inactive,2022-09-19,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1989,70000.0
+2606,1935039,Mr Brant Stracke,Male,1,Married,1,2022-05-01,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1991,63360.0
+2607,1935040,Scot Christiansen,Male,1,Married,31,2022-05-04,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,34440.0
+2614,1935041,Maeve Mraz,Male,1,Single,31,2022-05-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,3280.0
+2615,1935042,Marge Kemmer,Male,1,Single,31,2022-05-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,14731.029999999997
+2616,1935043,Dr Orville Schmidt V,Male,1,Single,31,2022-05-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,14731.029999999997
+2617,1935044,Maverick Doyle DVM,Male,1,Single,31,2022-05-25,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993,24600.0
+2637,193215,Troy Beier,Male,1,Married,24,2022-06-20,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Driver,1987,4140.0
+2642,5420,Mireya Crooks,Male,1,Married,104,2022-07-14,2022-11-04,Inactive,2022-11-04,\N,Management,Contarct Basis,Buddhist,Accountant,1965,0.0
+2643,193216,Prof Stone Kunze,Male,1,Married,54,2022-07-20,0000-00-00,Active,0000-00-00,673,Labour,Contarct Basis,Buddhist,Lab Technician,1986,5175.0
+2701,5424,Ilene Stehr DVM,Female,1,Single,143,2022-08-26,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,HR Assistant,1996,20000.0
+2705,193219,Jordon Hickle I,Male,1,Married,31,2022-08-29,0000-00-00,Active,0000-00-00,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972,1920.0
+2709,5425,Arvilla Jenkins,Female,1,Married,33,2022-09-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1989,60000.0
+2715,50047,Mrs Mara Gleason I,Male,1,Married,38,2022-09-01,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Office Assistant,1965,27000.0
+2734,5426,Mortimer Lindgren DDS,Male,1,Single,8,2022-09-26,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988,50000.0
+2737,5427,Prof Ismael Prosacco,Male,1,Married,78,2022-09-27,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1984,50000.0
+2771,5429,Dr Bertram Emard,Male,1,Married,198,2022-10-06,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Projects Officer,1981,100000.0
+2831,5433,Ms Katelin Medhurst,Male,1,Single,111,2022-10-25,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Management Trainee,1996,25000.0
+2836,5434,Janis Borer Jr,Female,1,Single,17,2022-11-01,2022-12-22,Inactive,2022-12-22,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993,25000.0
+2890,5479,Delphia Haley,Male,1,Single,8,2022-11-21,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1994,25000.0
+2972,5480,Lance Stanton,Male,1,Single,201,2022-12-05,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Software Developer,1997,20000.0
+2973,5481,Chauncey Reilly,Male,1,Single,8,2022-12-08,0000-00-00,Active,0000-00-00,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990,30000.0
+3041,5482,Sudath,Male,1,Married,104,2022-12-20,0000-00-00,Active,0000-00-00,\N,Management,Contarct Basis,Buddhist,Accountant,1979,50000.0
